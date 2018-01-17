@@ -61,11 +61,17 @@ avgTypes = m21['type_id'].tolist()
 dis ={'adjusted_price':[], 'average_price':[], 'type_id':[], 'average':[]}
 df = pd.DataFrame(columns=('adjusted_price', 'average_price', 'type_id', 'average'))
 #qry = market[market["type_id"] == 18]
+df['datestamp'] = pd.to_datetime('today')
+
 appe =[]
 
 data_all = []
 
-for i in range(0, len(m21)):
+#I'd like to put this into a data base
+
+#Set len below to low number to test
+
+for i in range(0, len(20)):#m21)):
     
 
 
