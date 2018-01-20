@@ -87,7 +87,7 @@ for i in range(0, len(codelst)):#m21)):
         m4['type_id'] = codelst[i]
         m40 = pd.DataFrame(m4, columns=('type_id', 'average'))
         m41 = m40.groupby('type_id').mean()
-        m42 = m1.reset_index()
+        m42 = m41.reset_index()
         
         data_all.append(m42)
        
@@ -104,7 +104,7 @@ dfafin2 = pd.merge(data_all2, p2xl, left_on='type_id', right_on='TYPEID')
 
 
 dfafin.to_excel("Jita.xlsx")
-dfafin.to_excel("Catch.xlsx")
+dfafin2.to_excel("Catch.xlsx")
 
 
 
