@@ -9,7 +9,7 @@ import pandas as pd
 import os
 import urllib3
 import certifi
-import h5py
+#import h5py
 
 
 
@@ -60,10 +60,10 @@ statSS = pd.read_csv(systems, usecols = ['regionID',  'constellationID',  'solar
 
 statSSlst = statSS[statSS['solarSystemName'].isin(ssNames)]
 
-store = pd.HDFStore('eve-store.h5')
-store['types'] = types
-store['systems']=statSS
-store['freshdata'] = p2xl
+#store = pd.HDFStore('eve-store.h5')
+#store['types'] = types
+#store['systems']=statSS
+#store['freshdata'] = p2xl
 
 
 #startup URLLIB
@@ -124,13 +124,14 @@ for i in range(0, len(codelst)):#m21)):
 data_all = pd.concat(data_all, ignore_index=False)   
 data_all2 = pd.concat(data_all2, ignore_index=False)   
 
-data_all3 = pd.concat(data_all, data_all2)
+data_all3 = data_all2.append(data_all)
+#
+#dfafin = pd.merge(data_all, p2xl, left_on='type_id', right_on='TYPEID') 
+#dfafin2 = pd.merge(data_all2, p2xl, left_on='type_id', right_on='TYPEID') 
 
-dfafin = pd.merge(data_all, p2xl, left_on='type_id', right_on='TYPEID') 
-dfafin2 = pd.merge(data_all2, p2xl, left_on='type_id', right_on='TYPEID') 
-
-
-dfafin.to_excel("Jita.xlsx")
-dfafin2.to_excel("Catch.xlsx")
+#
+#dfafin.to_excel("Jita.xlsx")
+#dfafin2.to_excel("Catch.xlsx")
+data_all3.to_excel("combined_data.xlsx")
 
 
