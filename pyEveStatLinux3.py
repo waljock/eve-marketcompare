@@ -28,7 +28,7 @@ Collect Inventory Types and Filter for what we want
 
 p2xl0 = pd.read_excel(r"invTypes.xls", sheet_name='Sheet1')
 
-p2xl =p2xl0[(p2xl0['MARKETGROUPID']>=1) & (p2xl0['MASS'] >= 0) & (p2xl0['MASS'] <= 5)].head(500)
+p2xl =p2xl0[(p2xl0['MARKETGROUPID']>=1) & (p2xl0['MASS'] >= 0) & (p2xl0['MASS'] <= 500)]
 
 #make a lsit of Type Codes that we will analyze
 
@@ -51,7 +51,8 @@ statSSlst = statSS[statSS['solarSystemName'].isin(ssNames)]
 
 http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
 
-
+data_all = []
+data_all2 = []
 
 for i in range(0, len(codelst)):#m21)):
     
@@ -62,27 +63,52 @@ for i in range(0, len(codelst)):#m21)):
     stat3 = r3.status
     data3 = r3.data
     
+    url4 = "https://esi.tech.ccp.is/latest/markets/10000014/history/?datasource=tranquility&type_id=" + str(codelst[i]) 
+    r4 = http.request("GET",url4)
+    stat4 = r4.status
+    data4 = r4.data
+
+    
     
     
     try:
-        m3 = pd.read_json(data3).tail(50)
- #       m3['type_id'] = avgTypes[i]
+        m3 = pd.read_json(data3)
+        m3['type_id'] = codelst[i]
         m30 = pd.DataFrame(m3, columns=('type_id', 'average'))
         m31 = m30.groupby('type_id').mean()
         m32 = m31.reset_index()
-        """
-        m33 = pd.merge(m21, m32)
-        m34 = m33[(m33['average_price'] <= m33['average'])]
+     
+        #m33 = pd.merge(m21, m32)
+        #m34 = m33[(m33['average_price'] <= m33['average'])]
         
-        data_all.append(m34)
-        """
+        data_all.append(m32)
+        
+        m4 = pd.read_json(data4)
+        m4['type_id'] = codelst[i]
+        m40 = pd.DataFrame(m4, columns=('type_id', 'average'))
+        m41 = m40.groupby('type_id').mean()
+        m42 = m1.reset_index()
+        
+        data_all.append(m42)
+       
     except:
         pass
-'''    
+    
+    
+    
 data_all = pd.concat(data_all, ignore_index=False)   
+data_all2 = pd.concat(data_all2, ignore_index=False)   
 
 dfafin = pd.merge(data_all, p2xl, left_on='type_id', right_on='TYPEID') 
+dfafin2 = pd.merge(data_all2, p2xl, left_on='type_id', right_on='TYPEID') 
 
+
+dfafin.to_excel("Jita.xlsx")
+dfafin.to_excel("Catch.xlsx")
+
+
+
+'''
 dfafin['pct'] = dfafin['average']/dfafin['average_price']
 
 final = dfafin[(dfafin['pct']>=3)]
