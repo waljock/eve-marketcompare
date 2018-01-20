@@ -17,6 +17,7 @@ import datetime, time
 
 xlTypes = ('invTypes.xls')
 systems = ('mapSolarSystems.csv')
+test = ('test.xls')
 
 
 ssNames = ['Jita', 'GE-8JV', '68FT-6']
@@ -26,9 +27,9 @@ Collect Inventory Types and Filter for what we want
 
 """
 
-p2xl0 = pd.read_excel(xlTypes, sheet_name='Sheet1')
+p2xl0 = pd.read_excel(test, sheet_name='Sheet1')
 
-p2xl =p2xl0[(p2xl0['GROUPID'] == 25)]
+p2xl =p2xl0#[(p2xl0['GROUPID'] == 25)]
 
 #make a lsit of Type Codes that we will analyze
 
