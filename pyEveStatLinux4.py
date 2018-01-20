@@ -95,8 +95,8 @@ for i in range(0, len(codelst)):#m21)):
     try:
         m3 = pd.read_json(data3)
         m3['type_id'] = codelst[i]
-        m30 = pd.DataFrame(m3, columns=('type_id', 'average'))
-        m31 = m30.groupby('type_id').mean()
+        m30 = pd.DataFrame(m3)
+        m31 = m30#.groupby('type_id').mean()
         m32 = m31.reset_index()
         m32['region'] = 'Jita'
         print("data for Jita " + str(codelst[i])) # + " received:  " + str(m32['TYPENAME'].head(1)) )
@@ -108,8 +108,8 @@ for i in range(0, len(codelst)):#m21)):
         
         m4 = pd.read_json(data4)
         m4['type_id'] = codelst[i]
-        m40 = pd.DataFrame(m4, columns=('type_id', 'average'))
-        m41 = m40.groupby('type_id').mean()
+        m40 = pd.DataFrame(m4)
+        m41 = m40#.groupby('type_id').mean()
         m42 = m41.reset_index()
         m42['region'] = 'Catch'
         print("data for Catch " + str(codelst[i])) # + " received:  " + str(m42['TYPENAME'].head(1)) )
