@@ -17,7 +17,7 @@ import datetime, time
 
 xlTypes = ('invTypes.xls')
 systems = ('mapSolarSystems.csv')
-test = ('test.xls')
+test = ('test.xlsx')
 
 
 ssNames = ['Jita', 'GE-8JV', '68FT-6']
