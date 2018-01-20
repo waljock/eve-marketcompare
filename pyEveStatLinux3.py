@@ -26,9 +26,9 @@ Collect Inventory Types and Filter for what we want
 
 """
 
-p2xl0 = pd.read_excel(r"invTypes.xls", sheet_name='Sheet1')
+p2xl0 = pd.read_excel(xlTypes, sheet_name='Sheet1')
 
-p2xl =p2xl0[(p2xl0['MARKETGROUPID']>=1) & (p2xl0['MASS'] >= 0) & (p2xl0['MASS'] <= 500)]
+p2xl =p2xl0[(p2xl0['GROUPID'] == 25)]
 
 #make a lsit of Type Codes that we will analyze
 
@@ -63,10 +63,12 @@ for i in range(0, len(codelst)):#m21)):
     stat3 = r3.status
     data3 = r3.data
     
+    
     url4 = "https://esi.tech.ccp.is/latest/markets/10000014/history/?datasource=tranquility&type_id=" + str(codelst[i]) 
     r4 = http.request("GET",url4)
     stat4 = r4.status
     data4 = r4.data
+    
 
     
     
@@ -77,6 +79,7 @@ for i in range(0, len(codelst)):#m21)):
         m30 = pd.DataFrame(m3, columns=('type_id', 'average'))
         m31 = m30.groupby('type_id').mean()
         m32 = m31.reset_index()
+        print("data for Jita " + str(codelst[i])) # + " received:  " + str(m32['TYPENAME'].head(1)) )
      
         #m33 = pd.merge(m21, m32)
         #m34 = m33[(m33['average_price'] <= m33['average'])]
@@ -88,8 +91,9 @@ for i in range(0, len(codelst)):#m21)):
         m40 = pd.DataFrame(m4, columns=('type_id', 'average'))
         m41 = m40.groupby('type_id').mean()
         m42 = m41.reset_index()
+        print("data for Catch " + str(codelst[i])) # + " received:  " + str(m42['TYPENAME'].head(1)) )
         
-        data_all.append(m42)
+        data_all2.append(m42)
        
     except:
         pass
