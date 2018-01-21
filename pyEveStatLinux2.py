@@ -103,7 +103,7 @@ dfafin = pd.merge(data_all, p2xl, left_on='type_id', right_on='TYPEID')
 
 dfafin['pct'] = dfafin['average']/dfafin['average_price']
 
-final = dfafin[(dfafin['pct']>=3)]
+final = dfafin[(dfafin['pct']>=2.25)]
 
 final.to_excel("test.xlsx")
 
