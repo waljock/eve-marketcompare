@@ -33,7 +33,7 @@ Collect Inventory Types and Filter for what we want
 
 p2xl0 = pd.read_excel(r"invTypes.xls", sheet_name='Sheet1')
 
-p2xl =p2xl0[(p2xl0['MARKETGROUPID']>=1) & (p2xl0['MASS'] >= 0) & (p2xl0['MASS'] <= 2000)]
+p2xl =p2xl0[(p2xl0['MARKETGROUPID']>=1) & (p2xl0['MASS'] >= 0) & (p2xl0['MASS'] <= 5000)]
 """
 
 Read in System Info and Station Info from Static File 
@@ -54,7 +54,7 @@ r = http.request("GET",url)
 stat = r.status
 data = r.data
 m2 = pd.read_json(data)
-m21 = m2[(m2['average_price']>=100000) & (m2['average_price']<=5000000)]
+m21 = m2[(m2['average_price']>=50000) & (m2['average_price']<=1000000)]
 
 avgTypes = m21['type_id'].tolist()
 
@@ -71,7 +71,7 @@ data_all = []
 
 #Set len below to low number to test
 
-for i in range(0, len(20)):#m21)):
+for i in range(0, len(m21)):
     
 
 
