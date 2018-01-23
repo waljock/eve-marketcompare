@@ -1,8 +1,8 @@
 library(readxl)
 library(ggplot2)
-#library(plyr)
+library(plyr)
 
-d <- read_xlsx("C:/Users/Walter/Documents/GitHub/eve-marketcompare/combined_data.xlsx")
+d <- read_xlsx("C:/Users/HMA03468/Documents/GitHub/eve-marketcompare/combined_data.xlsx")
 d2 <-subset(d,(region == 'Catch'))
 count(d2$type_id)
 
