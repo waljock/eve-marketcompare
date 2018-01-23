@@ -2,7 +2,7 @@ library(readxl)
 library(ggplot2)
 library(plyr)
 
-d <- read_xlsx("C:/Users/HMA03468/Documents/GitHub/eve-marketcompare/combined_data.xlsx")
+d <- read_xlsx("C:/Users/Walter/Documents/GitHub/eve-marketcompare/combined_data.xlsx")
 d2 <-subset(d,(region == 'Catch'))
 ct <-count(d2$type_id)
 ct <- ct[order(ct$freq),]
