@@ -69,7 +69,7 @@ http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
 data_all = []
 data_all2 = []
 
-for i in range(0, len(codelst)):#m21)):
+for i in range(0, 200):
     
 #look up catch prices
     
@@ -138,7 +138,7 @@ for y in range(0,len(t)):
 #    
 data_all = pd.concat(data_all, ignore_index=False)   
 
-jfilter = data_all[(data_all['date'] >= '2017-12-01')]
+jfilter = data_all[(data_all['date'] >= '2018-01-01')]
 
 
 jrecency = jfilter.filter(['order_count','average', 'type_id', 'volume'])
