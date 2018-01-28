@@ -132,6 +132,6 @@ data_all3 = data_all2.append(data_all)
 #
 #dfafin.to_excel("Jita.xlsx")
 #dfafin2.to_excel("Catch.xlsx")
-data_all3.to_excel("combined_data.xlsx")
+data_all3.to_csv("combined_data.csv")
 
 
