@@ -6,13 +6,13 @@ Created on Sat Dec 30 12:49:12 2017
 """
 
 import pandas as pd
-import os
+
 import urllib3
 import certifi
 
 
 
-import datetime, time
+
 
 
 
