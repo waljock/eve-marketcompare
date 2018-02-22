@@ -106,10 +106,10 @@ recgrp3 = recgrp2.rename(columns={'type_id':'Ctype','order_count':'Corders','ave
 t = list(recgrp3['Ctype'])
 
 for y in range(0,len(t)):
-
+#Jita is 10000002 , Catch is 10000014, Dodixie 10000032
     
 
-    url3 = "https://esi.tech.ccp.is/latest/markets/10000002/history/?datasource=tranquility&type_id=" + str(t[y]) 
+    url3 = "https://esi.tech.ccp.is/latest/markets/10000032/history/?datasource=tranquility&type_id=" + str(t[y]) 
     r3 = http.request("GET",url3)
     stat3 = r3.status
     data3 = r3.data
