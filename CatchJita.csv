@@ -1,14 +1,14 @@
 ,Jtype,Jorders,Jprice,Jvolume,Ctype,Corders,Cprice,Cvolume,TYPEID,GROUPID,TYPENAME,DESCRIPTION,MASS,VOLUME,CAPACITY,PORTIONSIZE,RACEID,BASEPRICE,PUBLISHED,MARKETGROUPID,ICONID,SOUNDID,GRAPHICID,pct
-0,19,10.574074074074074,3490.142222222224,2861.5,19,1.7727272727272727,1890.4545454545455,7473.681818181818,19,461,Spodumain,"Spodumain is amongst the most desirable ore types around, as it contains high volumes of the four most heavily demanded minerals. Huge volumes of tritanium and pyerite, as well as moderate amounts of mexallon and isogen can be obtained by refining these rocks.
+0,19,10.557377049180328,3460.403114754101,2849.0163934426228,19,1.7391304347826086,1816.9565217391305,7152.04347826087,19,461,Spodumain,"Spodumain is amongst the most desirable ore types around, as it contains high volumes of the four most heavily demanded minerals. Huge volumes of tritanium and pyerite, as well as moderate amounts of mexallon and isogen can be obtained by refining these rocks.
 
-Available primarily in <color='0xFFFF0000'>0.0</color> security status solar systems or lower.",99999999999999996863366107917975552,16.0,0.0,100,4.0,1149400.0,1,517.0,1274.0,,0,0.5416554469951845
-1,21,12.166666666666666,356.92259259259265,28601.75925925926,21,1.3333333333333333,641.5644444444445,1694.7777777777778,21,454,Hedbergite,"Hedbergite is sought after for its high concentration of nocxium and isogen. However hedbergite also yields some pyerite and zydrine.
+Available primarily in <color='0xFFFF0000'>0.0</color> security status solar systems or lower.",99999999999999996863366107917975552,16.0,0.0,100,4.0,1149400.0,1,517.0,1274.0,,0,0.5250707681981279
+1,21,11.98360655737705,357.17163934426236,27530.426229508197,21,1.3333333333333333,641.5644444444445,1694.7777777777778,21,454,Hedbergite,"Hedbergite is sought after for its high concentration of nocxium and isogen. However hedbergite also yields some pyerite and zydrine.
 
-Available primarily in <color='0xFFFF4D00'>0.2</color> security status solar systems or lower.",99999999999999996863366107917975552,3.0,0.0,100,4.0,337408.0,1,527.0,1269.0,,0,1.7974890291597616
-2,22,26.35185185185185,4183.980185185184,16109.0,22,1.1875,2187.5,748.125,22,450,Arkonor,"One of the rarest and most sought-after ores in the known universe. A sizable nugget of this can sweep anyone from rags to riches in no time. Arkonor has the largest amount of megacyte of any ore, and also contains some mexallon and tritanium.
+Available primarily in <color='0xFFFF4D00'>0.2</color> security status solar systems or lower.",99999999999999996863366107917975552,3.0,0.0,100,4.0,337408.0,1,527.0,1269.0,,0,1.7962356855160835
+2,22,26.049180327868854,4163.422950819671,15970.491803278688,22,1.1764705882352942,2335.294117647059,704.1764705882352,22,450,Arkonor,"One of the rarest and most sought-after ores in the known universe. A sizable nugget of this can sweep anyone from rags to riches in no time. Arkonor has the largest amount of megacyte of any ore, and also contains some mexallon and tritanium.
 
-Available primarily in <color='0xFFFF0000'>0.0</color> security status solar systems or lower.",99999999999999996863366107917975552,16.0,0.0,100,4.0,3068504.0,1,512.0,1277.0,,0,0.5228275238361771
-3,34,2173.259259259259,5.282407407407407,15774155329.351852,34,21.32941176470588,5.036588235294115,53878297.62352941,34,18,Tritanium,"The main building block in space structures. A very hard, yet bendable metal. Cannot be used in human habitats due to its instability at atmospheric temperatures. Very common throughout the universe.
+Available primarily in <color='0xFFFF0000'>0.0</color> security status solar systems or lower.",99999999999999996863366107917975552,16.0,0.0,100,4.0,3068504.0,1,512.0,1277.0,,0,0.5609072499317658
+3,34,2172.0163934426228,5.2493442622950806,16044523091.442623,34,21.369565217391305,5.0482608695652145,53733573.967391305,34,18,Tritanium,"The main building block in space structures. A very hard, yet bendable metal. Cannot be used in human habitats due to its instability at atmospheric temperatures. Very common throughout the universe.
 
 May be obtained by reprocessing the following ores:
 
@@ -31,29 +31,8 @@ May be obtained by reprocessing the following ores:
 
 <color='0xFF33FFFF'>1.0</color> security status solar system or lower:
 <a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Condensed Scordite</a>, <a href=showinfo:17464>Massive Scordite</a>
-<a href=showinfo:1230>Veldspar</a>, <a href=showinfo:17470>Concentrated Veldspar</a>, <a href=showinfo:17471>Dense Veldspar</a>",0,0.01,0.0,1,,2.0,1,1857.0,22.0,,0,0.9534645563746966
-4,35,1668.4259259259259,4.769074074074075,3608848445.0,35,18.88235294117647,3.9298823529411786,36502189.04705882,35,18,Pyerite,"A soft crystal-like mineral with a very distinguishing orange glow as if on fire. Used as conduit and in the bio-chemical industry. Commonly found in many asteroid-ore types.
-
-May be obtained by reprocessing the following ores:
-
-<color='0xFFFF0000'>0.0</color> security status solar system or lower:
-<a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic Bistot</a>, <a href=showinfo:17428>Triclinic Bistot</a>
-<a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Iridescent Gneiss</a>, <a href=showinfo:17866>Prismatic Gneiss</a>
-<a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright Spodumain</a>, <a href=showinfo:17467>Gleaming Spodumain</a>
-
-<color='0xFFFF4D00'>0.2</color> security status solar system or lower:
-<a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric Hedbergite</a>, <a href=showinfo:17441>Glazed Hedbergite</a>
-
-<color='0xFF00FF00'>0.7</color> security status solar system or lower:
-<a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery Omber</a>, <a href=showinfo:17868>Golden Omber</a>
-
-<color='0xFF4DFFCC'>0.9</color> security status solar system or lower:
-<a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Azure Plagioclase</a>, <a href=showinfo:17456>Rich Plagioclase</a>
-<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>
-
-<color='0xFF33FFFF'>1.0</color> security status solar system or lower:
-<a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Condensed Scordite</a>, <a href=showinfo:17464>Massive Scordite</a>",0,0.01,0.0,1,,8.0,1,1857.0,400.0,,0,0.8240346641510644
-5,36,1517.0555555555557,76.98055555555554,1013502717.1481482,36,17.423529411764704,74.30129411764706,5274708.294117647,36,18,Mexallon,"Very flexible metallic mineral, dull to bright silvery green in color. Can be mixed with tritanium to make extremely hard alloys or it can be used by itself for various purposes. Fairly common in most regions.
+<a href=showinfo:1230>Veldspar</a>, <a href=showinfo:17470>Concentrated Veldspar</a>, <a href=showinfo:17471>Dense Veldspar</a>",0,0.01,0.0,1,,2.0,1,1857.0,22.0,,0,0.961693616824828
+4,36,1519.5409836065573,76.47704918032785,1027307315.3114754,36,17.608695652173914,74.64782608695651,5232264.673913044,36,18,Mexallon,"Very flexible metallic mineral, dull to bright silvery green in color. Can be mixed with tritanium to make extremely hard alloys or it can be used by itself for various purposes. Fairly common in most regions.
 
 May be obtained by reprocessing the following ores:
 
@@ -69,8 +48,8 @@ May be obtained by reprocessing the following ores:
 
 <color='0xFF4DFFCC'>0.9</color> security status solar system or lower:
 <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Azure Plagioclase</a>, <a href=showinfo:17456>Rich Plagioclase</a>
-<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>",0,0.01,0.0,1,,32.0,1,1857.0,401.0,,0,0.9651956079223811
-6,37,1295.2777777777778,40.88777777777778,351496050.5740741,37,16.03529411764706,40.9504705882353,1665564.4,37,18,Isogen,"Light-bluish crystal, formed by intense pressure deep within large asteroids and moons. Used in electronic and weapon manufacturing. Only found in abundance in a few areas.
+<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>",0,0.01,0.0,1,,32.0,1,1857.0,401.0,,0,0.9760814111818286
+5,37,1297.983606557377,40.2488524590164,361493634.59016395,37,15.967391304347826,40.614782608695656,1660596.7826086956,37,18,Isogen,"Light-bluish crystal, formed by intense pressure deep within large asteroids and moons. Used in electronic and weapon manufacturing. Only found in abundance in a few areas.
 
 May be obtained by reprocessing the following ores:
 
@@ -85,8 +64,8 @@ May be obtained by reprocessing the following ores:
 
 <color='0xFF00FF00'>0.7</color> security status solar system or lower:
 <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Luminous Kernite</a>, <a href=showinfo:17453>Fiery Kernite</a>
-<a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery Omber</a>, <a href=showinfo:17868>Golden Omber</a>",0,0.01,0.0,1,,128.0,1,1857.0,402.0,,0,1.0015332897473237
-7,38,1215.9074074074074,345.01074074074086,83038682.03703703,38,14.811764705882354,326.1716470588235,376630.17647058825,38,18,Nocxium,"A highly volatile mineral only formed during supernovas, thus severely limiting the extent of its distribution. Vital ingredient in capsule production, making it very coveted.
+<a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery Omber</a>, <a href=showinfo:17868>Golden Omber</a>",0,0.01,0.0,1,,128.0,1,1857.0,402.0,,0,1.0090916914973382
+6,38,1219.8032786885246,341.8834426229509,85669840.4590164,38,14.83695652173913,324.6451086956522,386530.9130434783,38,18,Nocxium,"A highly volatile mineral only formed during supernovas, thus severely limiting the extent of its distribution. Vital ingredient in capsule production, making it very coveted.
 
 May be obtained by reprocessing the following ores:
 
@@ -102,8 +81,8 @@ May be obtained by reprocessing the following ores:
 <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine Jaspet</a>
 
 <color='0xFF4DFFCC'>0.9</color> security status solar system or lower:
-<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>",0,0.01,0.0,1,,512.0,1,1857.0,1201.0,,0,0.9453956313317387
-8,39,1256.7222222222222,829.0835185185183,44046231.85185185,39,14.929411764705883,939.8043529411766,170833.4,39,18,Zydrine,"Only found in huge geodes; rocks on the outside with crystal-like quartz on the inside. The rarest and most precious of these geodes are those that contain the dark green zydrine within. Very rare and very expensive.
+<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>",0,0.01,0.0,1,,512.0,1,1857.0,1201.0,,0,0.9495783305706613
+7,39,1261.7377049180327,823.8021311475408,44908491.63934426,39,15.195652173913043,934.1667391304351,168413.51086956522,39,18,Zydrine,"Only found in huge geodes; rocks on the outside with crystal-like quartz on the inside. The rarest and most precious of these geodes are those that contain the dark green zydrine within. Very rare and very expensive.
 
 May be obtained by reprocessing the following ores:
 
@@ -116,476 +95,479 @@ May be obtained by reprocessing the following ores:
 <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant Hemorphite</a>
 
 <color='0xFFE58000'>0.4</color> security status solar system or lower:
-<a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine Jaspet</a>",0,0.01,0.0,1,,2048.0,1,1857.0,404.0,,0,1.1335460565185331
-9,40,1143.1296296296296,1019.0666666666667,24609110.833333332,40,15.188235294117646,978.5929411764704,98295.21176470588,40,18,Megacyte,"An extremely rare mineral found in comets and very occasionally in asteroids that have traveled through gas clouds. Has unique explosive traits that make it very valuable in the armaments industry.
+<a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine Jaspet</a>",0,0.01,0.0,1,,2048.0,1,1857.0,404.0,,0,1.1339698014973068
+8,40,1146.2459016393443,1006.954918032787,24970028.098360654,40,15.184782608695652,968.3383695652172,98601.78260869565,40,18,Megacyte,"An extremely rare mineral found in comets and very occasionally in asteroids that have traveled through gas clouds. Has unique explosive traits that make it very valuable in the armaments industry.
 
 May be obtained by reprocessing the following ores:
 
 <color='0xFFFF0000'>0.0</color> security status solar system or lower:
 <a href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Crimson Arkonor</a>, <a href=showinfo:17426>Prime Arkonor</a>
-<a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic Bistot</a>, <a href=showinfo:17428>Triclinic Bistot</a>",0,0.01,0.0,1,,8192.0,1,1857.0,405.0,,0,0.9602835351070951
-10,42,36.31481481481482,971.74,1743.9074074074074,42,1.1428571428571428,3500.0,2.142857142857143,42,280,Spiced Wine,"Luxury goods are always solid commodities for inter-stellar trading. Spiced wine is not the rarest of luxury goods, but it can still be sold at small outposts and bases that don't manufacture any themselves.",500,0.5,0.0,1,,1500.0,1,492.0,27.0,,0,3.601786486097104
-11,44,95.09433962264151,10133.626226415094,509614.4528301887,44,1.8333333333333333,11737.38462962963,2075.8703703703704,44,1034,Enriched Uranium,"Enriched Uranium is used in many kinds of manufacturing and as a fuel, making it a steady trade commodity. Enriched Uranium is generally manufactured by combining standard semiconductor PVD methods with ionic separation by means of mass spectrometry.",0,1.5,0.0,1,,5000.0,1,1335.0,29.0,,0,1.1582610575308232
-12,178,131.07407407407408,3.0927777777777776,834417.2407407408,178,1.6923076923076923,6.195384615384616,5086.153846153846,178,83,Carbonized Lead S,"Small Projectile Ammo. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem. 
+<a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic Bistot</a>, <a href=showinfo:17428>Triclinic Bistot</a>",0,0.01,0.0,1,,8192.0,1,1857.0,405.0,,0,0.9616501714465907
+9,42,34.49180327868852,937.7568852459016,1591.5409836065573,42,1.1428571428571428,3500.0,2.142857142857143,42,280,Spiced Wine,"Luxury goods are always solid commodities for inter-stellar trading. Spiced wine is not the rarest of luxury goods, but it can still be sold at small outposts and bases that don't manufacture any themselves.",500,0.5,0.0,1,,1500.0,1,492.0,27.0,,0,3.7323106394278502
+10,44,95.41666666666667,10326.527166666665,504300.93333333335,44,1.8245614035087718,11628.39947368421,2035.298245614035,44,1034,Enriched Uranium,"Enriched Uranium is used in many kinds of manufacturing and as a fuel, making it a steady trade commodity. Enriched Uranium is generally manufactured by combining standard semiconductor PVD methods with ionic separation by means of mass spectrometry.",0,1.5,0.0,1,,5000.0,1,1335.0,29.0,,0,1.1260706804916858
+11,178,132.88524590163934,3.0122950819672125,828160.3114754099,178,1.5625,6.617500000000001,4530.0,178,83,Carbonized Lead S,"Small Projectile Ammo. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem. 
 
 60% increased optimal range.
-5% increased tracking speed.",0.01,0.0025,0.0,100,,200.0,1,113.0,1004.0,,1308,2.003178068563375
-13,179,123.96296296296296,3.197592592592593,812832.1666666666,179,1.2857142857142858,12.954285714285716,3830.0,179,83,Nuclear S,"Small Projectile Ammo. Nuclear weapons are considered by most races to be crude and primitive. However, the Minmatar still favor them over more sophisticated weapons due to the abundance of materials for plutonium production in Minmatar space.
+5% increased tracking speed.",0.01,0.0025,0.0,100,,200.0,1,113.0,1004.0,,1308,2.1968299319727898
+12,179,124.77049180327869,3.2342622950819675,783308.8524590164,179,1.2857142857142858,12.954285714285716,3830.0,179,83,Nuclear S,"Small Projectile Ammo. Nuclear weapons are considered by most races to be crude and primitive. However, the Minmatar still favor them over more sophisticated weapons due to the abundance of materials for plutonium production in Minmatar space.
 
 60% increased optimal range.
-5% increased tracking speed.",0.01,0.0025,0.0,100,,300.0,1,113.0,1288.0,,1288,4.0512621102185005
-14,180,129.40740740740742,3.5957407407407382,517764.0740740741,180,1.5,14.5,1150.0,180,83,Proton S,"Small Projectile Ammo. Emits a focused, high intensity proton burst upon impact. Fairly effective vs. both shields and armor.
+5% increased tracking speed.",0.01,0.0025,0.0,100,,300.0,1,113.0,1288.0,,1288,4.005329355625873
+13,180,129.4262295081967,3.5827868852459,477862.0983606557,180,1.5,14.5,1150.0,180,83,Proton S,"Small Projectile Ammo. Emits a focused, high intensity proton burst upon impact. Fairly effective vs. both shields and armor.
 
 60% increased optimal range.
-5% increased tracking speed.",0.01,0.0025,0.0,100,,400.0,1,113.0,1290.0,,1290,4.03254879744554
-15,181,130.75925925925927,6.266851851851851,478169.01851851854,181,1.3846153846153846,18.338461538461537,6180.384615384615,181,83,Depleted Uranium S,"Small projectile Ammo. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead. 
+5% increased tracking speed.",0.01,0.0025,0.0,100,,400.0,1,113.0,1290.0,,1290,4.047128803477467
+14,181,131.60655737704917,6.3475409836065575,448215.68852459016,181,1.3571428571428572,18.457142857142856,5810.357142857143,181,83,Depleted Uranium S,"Small projectile Ammo. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead. 
 
-20% tracking speed bonus.",0.01,0.0025,0.0,100,,500.0,1,113.0,1285.0,,1285,2.926263771983461
-16,182,133.12962962962962,7.141481481481478,466729.24074074073,182,1.7333333333333334,8.15,2865.9666666666667,182,83,Titanium Sabot S,"Small Projectile Ammo. This is among the most feared ammunition around. It has excellent penetration. Once the ship's outer layer is penetrated, the core explodes, spraying the interior with a cloud of fragmentation fletchets that cause considerable damage to the vulnerable interior structure.
+20% tracking speed bonus.",0.01,0.0025,0.0,100,,500.0,1,113.0,1285.0,,1285,2.9077626918536006
+15,182,133.59016393442624,6.827049180327867,487681.2950819672,182,1.7333333333333334,8.15,2865.9666666666667,182,83,Titanium Sabot S,"Small Projectile Ammo. This is among the most feared ammunition around. It has excellent penetration. Once the ship's outer layer is penetrated, the core explodes, spraying the interior with a cloud of fragmentation fletchets that cause considerable damage to the vulnerable interior structure.
 
-20% increased tracking speed.",0.01,0.0025,0.0,100,,600.0,1,113.0,1291.0,,1291,1.1412197904781667
-17,183,155.2962962962963,15.21314814814815,1471435.6296296297,183,1.1666666666666667,23.833333333333332,2833.3333333333335,183,83,Fusion S,"Small Projectile Ammo. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.
+20% increased tracking speed.",0.01,0.0025,0.0,100,,600.0,1,113.0,1291.0,,1291,1.1937807659983195
+16,183,154.95081967213116,15.195081967213119,1353914.2950819673,183,1.1428571428571428,25.142857142857142,2571.4285714285716,183,83,Fusion S,"Small Projectile Ammo. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.
 
-50% reduced optimal range.",0.01,0.0025,0.0,100,,700.0,1,113.0,1287.0,,1287,1.5666273082494429
-18,184,164.72222222222223,15.399074074074077,1279312.5555555555,184,4.461538461538462,23.397051282051294,11855.897435897436,184,83,Phased Plasma S,"Small Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.
+50% reduced optimal range.",0.01,0.0025,0.0,100,,700.0,1,113.0,1287.0,,1287,1.6546707149792699
+17,184,165.01639344262296,15.403934426229512,1227057.4426229508,184,4.317647058823529,23.39764705882354,11214.70588235294,184,83,Phased Plasma S,"Small Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.
 
-50% reduced optimal range.",0.01,0.0025,0.0,100,,800.0,1,113.0,1289.0,,1289,1.5193803971267748
-19,185,203.94444444444446,22.188148148148155,2579449.203703704,185,3.2972972972972974,28.809594594594586,11093.135135135135,185,83,EMP S,"Small projectile Ammo. A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.
+50% reduced optimal range.",0.01,0.0025,0.0,100,,800.0,1,113.0,1289.0,,1289,1.5189396690096586
+18,185,203.49180327868854,22.04131147540984,2452811.5573770492,185,3.2564102564102564,28.857692307692297,10743.166666666666,185,83,EMP S,"Small projectile Ammo. A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.
 
-50% reduced optimal range.",0.01,0.0025,0.0,100,,1000.0,1,113.0,1286.0,,1286,1.2984226715197529
-20,186,78.87037037037037,4.507222222222222,265924.3703703704,186,1.368421052631579,27.877894736842098,3417.7368421052633,186,83,Carbonized Lead M,"Medium Projectile Ammo. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem.
-
-60% increased optimal range.
-5% increased tracking speed.",0.05,0.0125,0.0,100,,800.0,1,112.0,1292.0,,1292,6.1851609178251925
-21,187,76.05555555555556,14.176296296296307,371777.6296296296,187,1.1666666666666667,62.0,3895.5,187,83,Nuclear M,"Medium Projectile Ammo. Nuclear weapons are considered by most races to be crude and primitive. However, the Minmatar still favor them over more sophisticated weapons due to the abundance of materials for plutonium production in Minmatar space.
+50% reduced optimal range.",0.01,0.0025,0.0,100,,1000.0,1,113.0,1286.0,,1286,1.30925477551039
+19,186,79.36065573770492,4.559180327868853,258124.19672131148,186,1.35,27.73399999999999,3271.85,186,83,Carbonized Lead M,"Medium Projectile Ammo. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem.
 
 60% increased optimal range.
-5% increased tracking speed.",0.05,0.0125,0.0,100,,1200.0,1,112.0,1296.0,,1296,4.373497753161247
-22,188,76.0925925925926,15.217777777777782,221276.8148148148,188,1.0,51.0,550.0,188,83,Proton M,"Medium Projectile Ammo. Emits a focused, high intensity proton burst upon impact. Fairly effective vs. both shields and armor.
+5% increased tracking speed.",0.05,0.0125,0.0,100,,800.0,1,112.0,1292.0,,1292,6.0831109992449
+20,187,76.1311475409836,12.997213114754107,354778.8360655738,187,1.1666666666666667,62.0,3895.5,187,83,Nuclear M,"Medium Projectile Ammo. Nuclear weapons are considered by most races to be crude and primitive. However, the Minmatar still favor them over more sophisticated weapons due to the abundance of materials for plutonium production in Minmatar space.
 
 60% increased optimal range.
-5% increased tracking speed.",1,0.0125,0.0,100,,1650.0,1,112.0,1298.0,,1298,3.3513434579439245
-23,189,84.74074074074075,28.520370370370383,351426.22222222225,189,1.1111111111111112,61.77777777777778,5244.444444444444,189,83,Depleted Uranium M,"Medium Projectile Ammo. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead.
-
-20% tracking speed bonus.",1,0.0125,0.0,100,,2050.0,1,112.0,1293.0,,1293,2.166093110836958
-24,190,88.07407407407408,18.304444444444453,430896.48148148146,190,1.7,46.44333333333334,5777.5,190,83,Titanium Sabot M,"Medium Projectile Ammo. This is among the most feared ammunition around. It has excellent penetration. Once the ship's outer layer is penetrated, the core explodes, spraying the interior with a cloud of fragmentation fletchets that cause considerable damage to the vulnerable interior structure.
-
-20% increased tracking speed.",1,0.0125,0.0,100,,2350.0,1,112.0,1299.0,,1299,2.5372708510379987
-25,191,107.16666666666667,37.58962962962963,922442.3333333334,191,2.4444444444444446,80.70444444444446,20752.083333333332,191,83,Fusion M,"Medium Projectile Ammo. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.
-
-50% reduced optimal range.",1,0.0125,0.0,100,,2750.0,1,112.0,1295.0,,1295,2.1469869546368194
-26,192,116.62962962962963,63.57499999999998,1123806.6296296297,192,2.9508196721311477,110.94459016393444,14427.918032786885,192,83,Phased Plasma M,"Medium Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.
-
-50% reduced optimal range.",1,0.0125,0.0,100,,3250.0,1,112.0,1297.0,,1297,1.74509776113149
-27,193,125.74074074074075,64.59629629629632,1297242.5555555555,193,4.558441558441558,91.32909090909087,21422.85714285714,193,83,EMP M,"Medium Projectile Ammo. A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.
-
-50% reduced optimal range.",1,0.0125,0.0,100,,4000.0,1,112.0,1294.0,,1294,1.4138440769138538
-28,194,56.55555555555556,16.35833333333333,212273.8148148148,194,1.4615384615384615,32.43692307692308,9064.538461538461,194,83,Carbonized Lead L,"Large Projectile Ammo. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem.
+5% increased tracking speed.",0.05,0.0125,0.0,100,,1200.0,1,112.0,1296.0,,1296,4.770253396062205
+21,188,77.31147540983606,14.94196721311476,209417.22950819673,188,1.0,51.0,550.0,188,83,Proton M,"Medium Projectile Ammo. Emits a focused, high intensity proton burst upon impact. Fairly effective vs. both shields and armor.
 
 60% increased optimal range.
-5% increased tracking speed.",1,0.025,0.0,100,,2000.0,1,109.0,1300.0,,1300,1.9828990164191391
-29,195,55.01851851851852,25.164629629629637,149510.7037037037,195,1.7894736842105263,50.94263157894736,18406.684210526317,195,83,Nuclear L,"Large Projectile Ammo. Nuclear weapons are considered by most races to be crude and primitive. However, the Minmatar still favor them over more sophisticated weapons due to the abundance of materials for plutonium production in Minmatar space.
+5% increased tracking speed.",1,0.0125,0.0,100,,1650.0,1,112.0,1298.0,,1298,3.413205187281942
+22,189,85.73770491803279,28.024918032786896,344203.2295081967,189,1.1111111111111112,61.77777777777778,5244.444444444444,189,83,Depleted Uranium M,"Medium Projectile Ammo. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead.
+
+20% tracking speed bonus.",1,0.0125,0.0,100,,2050.0,1,112.0,1293.0,,1293,2.2043874563880173
+23,190,88.62295081967213,18.23491803278689,412314.37704918033,190,1.6363636363636365,46.31151515151516,5418.939393939394,190,83,Titanium Sabot M,"Medium Projectile Ammo. This is among the most feared ammunition around. It has excellent penetration. Once the ship's outer layer is penetrated, the core explodes, spraying the interior with a cloud of fragmentation fletchets that cause considerable damage to the vulnerable interior structure.
+
+20% increased tracking speed.",1,0.0125,0.0,100,,2350.0,1,112.0,1299.0,,1299,2.5397161132419552
+24,191,107.39344262295081,37.26819672131147,892932.7868852459,191,2.3333333333333335,82.16948717948719,19476.28205128205,191,83,Fusion M,"Medium Projectile Ammo. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.
+
+50% reduced optimal range.",1,0.0125,0.0,100,,2750.0,1,112.0,1295.0,,1295,2.2048152153414855
+25,192,118.34426229508196,64.16262295081967,1085479.5081967213,192,2.8636363636363638,111.47151515151516,14175.80303030303,192,83,Phased Plasma M,"Medium Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.
+
+50% reduced optimal range.",1,0.0125,0.0,100,,3250.0,1,112.0,1297.0,,1297,1.7373279025228991
+26,193,126.11475409836065,63.10540983606561,1256133.8032786886,193,4.530864197530864,90.97592592592588,21133.62962962963,193,83,EMP M,"Medium Projectile Ammo. A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.
+
+50% reduced optimal range.",1,0.0125,0.0,100,,4000.0,1,112.0,1294.0,,1294,1.441650187555424
+27,194,55.09836065573771,16.683934426229506,203672.4262295082,194,1.4285714285714286,32.88214285714286,8702.785714285714,194,83,Carbonized Lead L,"Large Projectile Ammo. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem.
 
 60% increased optimal range.
-5% increased tracking speed.",1,0.025,0.0,100,,3000.0,1,109.0,1304.0,,1304,2.0243743829619447
-30,196,54.94444444444444,14.493333333333332,173488.09259259258,196,1.5714285714285714,78.56000000000002,4826.857142857143,196,83,Proton L,"Large Projectile Ammo. Emits a focused, high intensity proton burst upon impact. Fairly effective vs. both shields and armor.
+5% increased tracking speed.",1,0.025,0.0,100,,2000.0,1,109.0,1300.0,,1300,1.9708866036687054
+28,195,54.131147540983605,26.905901639344272,147108.60655737706,195,1.8636363636363635,51.35954545454545,16842.136363636364,195,83,Nuclear L,"Large Projectile Ammo. Nuclear weapons are considered by most races to be crude and primitive. However, the Minmatar still favor them over more sophisticated weapons due to the abundance of materials for plutonium production in Minmatar space.
 
 60% increased optimal range.
-5% increased tracking speed.",1,0.025,0.0,100,,4000.0,1,109.0,1306.0,,1306,5.420423183072678
-31,197,61.870370370370374,48.638148148148154,397585.68518518517,197,1.75,106.7075,10561.5,197,83,Depleted Uranium L,"Large Projectile Ammo. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead.
-
-20% tracking speed bonus.",1,0.025,0.0,100,,5000.0,1,109.0,1301.0,,1301,2.193905484949323
-32,198,65.31481481481481,101.08703703703702,307544.1296296296,198,1.1666666666666667,184.48833333333332,1366.6666666666667,198,83,Titanium Sabot L,"Large Projectile Ammo. This is among the most feared ammunition around. It has excellent penetration. Once the ship's outer layer is penetrated, the core explodes, spraying the interior with a cloud of fragmentation fletchets that cause considerable damage to the vulnerable interior structure.
-
-20% increased tracking speed.",1,0.025,0.0,100,,6000.0,1,109.0,1307.0,,1307,1.8250444244966753
-33,199,80.62962962962963,215.9055555555556,1072717.3333333333,199,2.2,371.644,45143.9,199,83,Fusion L,"Large Projectile Ammo. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.
-
-50% reduced optimal range.",1,0.025,0.0,100,,7000.0,1,109.0,1303.0,,1303,1.721326711782415
-34,200,82.27777777777777,200.38537037037037,880653.3518518518,200,2.0,328.70000000000005,6276.909090909091,200,83,Phased Plasma L,"Large Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.
-
-50% reduced optimal range.",1,0.025,0.0,100,,8000.0,1,109.0,1305.0,,1305,1.6403393091644713
-35,201,92.03703703703704,225.9318518518518,1106608.6296296297,201,8.53125,318.8770312500001,38786.40625,201,83,EMP L,"Large Projectile Ammo. A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.
-
-50% reduced optimal range.",1,0.025,0.0,100,,10000.0,1,109.0,1302.0,,1302,1.4113859052467483
-36,202,169.40740740740742,318.7899999999999,1259565.648148148,202,1.8571428571428572,336.4323809523809,11622.547619047618,202,386,Mjolnir Cruise Missile,"The mother of all missiles, the Mjolnir cruise missile delivers a tremendous payload, guaranteed to get its victims acquainted with their personal god in a quick, but painful manner.",1250,0.05,0.0,100,,15000.0,1,921.0,182.0,,20041,1.0553417012841715
-37,203,219.2037037037037,261.8496296296296,2796977.6666666665,203,1.368421052631579,339.60999999999996,5112.0526315789475,203,386,Scourge Cruise Missile,"The first Minmatar-made large missile. Constructed of reactionary alloys, the Scourge cruise missile is built to get to the target. Guidance and propulsion systems are of Gallente origin and were initially used in drones, making this a nimble projectile despite its heavy payload.",1250,0.05,0.0,100,,10000.0,1,921.0,183.0,,20043,1.2969657451124055
-38,204,179.38888888888889,207.99537037037038,1424817.9259259258,204,1.8043478260869565,301.17891304347825,11531.434782608696,204,386,Inferno Cruise Missile,"An Amarr creation with powerful capabilities, the Inferno cruise missile was for a long time confined solely to the Amarr armed forces, but exports began some years ago and the missile is now found throughout the universe.",1250,0.05,0.0,100,,12500.0,1,921.0,184.0,,20040,1.4480077729960001
-39,205,155.64814814814815,254.88703703703703,1084728.648148148,205,1.3846153846153846,283.58230769230767,5838.384615384615,205,386,Nova Cruise Missile,A very basic missile for large launchers with reasonable payload. Utilizes the now substandard technology of bulls-eye guidance systems.,1250,0.05,0.0,100,,7500.0,1,921.0,185.0,,20042,1.1125803453515801
-40,206,250.77777777777777,22.193518518518513,1116015.4259259258,206,2.0,171.47846153846152,10189.692307692309,206,385,Nova Heavy Missile,"The be-all and end-all of medium-sized missiles, the Nova heavy missile is a must for those who want a guaranteed kill no matter the cost.",1000,0.03,0.0,100,,2000.0,1,924.0,186.0,,20050,7.726510845739851
-41,207,274.25925925925924,56.71944444444446,1610895.3703703703,207,2.0892857142857144,192.1514285714285,12937.125,207,385,Mjolnir Heavy Missile,"First introduced by the armaments lab of the Wiyrkomi Corporation, the Mjolnir heavy missile is a solid investment with a large payload and steady performance.",1000,0.03,0.0,100,,3500.0,1,924.0,187.0,,20049,3.387752303526825
-42,208,295.64814814814815,62.52074074074074,1582167.648148148,208,1.5714285714285714,126.53619047619048,6375.666666666667,208,385,Inferno Heavy Missile,"Originally designed as a 'finisher' - the killing blow to a crippled ship - the Inferno heavy missile has since gone through various technological upgrades. The latest version has a lighter payload than the original, but much improved guidance systems.",1000,0.03,0.0,100,,3000.0,1,924.0,188.0,,20048,2.023907410196997
-43,209,414.462962962963,55.031111111111116,6507508.092592592,209,1.736842105263158,101.40421052631578,11317.71052631579,209,385,Scourge Heavy Missile,The Scourge heavy missile is an old relic from the Caldari-Gallente War that is still in widespread use because of its low price and versatility.,1000,0.03,0.0,100,,2500.0,1,924.0,189.0,,20051,1.84267059993709
-44,210,515.574074074074,11.244999999999997,4090771.092592593,210,4.780487804878049,18.438902439024396,7483.756097560976,210,384,Scourge Light Missile,"From its humble beginnings in tiny Minmatar design labs, the Scourge light missile has quickly established itself throughout the star cluster as a premier missile for light launchers.",700,0.015,0.0,100,,500.0,1,920.0,190.0,,20064,1.6397423245019476
-45,211,387.0188679245283,11.456603773584904,2729525.0,211,2.0,33.3415,7104.1,211,384,Inferno Light Missile,The explosion the Inferno light missile creates upon impact is stunning enough for any display of fireworks - just ten times more deadly.,700,0.015,0.0,100,,624.0,1,920.0,191.0,,20061,2.910242918313571
-46,212,341.4259259259259,19.99074074074074,2414541.2592592593,212,2.898550724637681,26.812318840579717,7039.202898550725,212,384,Mjolnir Light Missile,"An advanced missile with a volatile payload of magnetized plasma, the Mjolnir light missile is specifically engineered to take down shield systems.",700,0.015,0.0,100,,750.0,1,920.0,192.0,,20062,1.3412368850313152
-47,213,318.18518518518516,10.938333333333333,1894054.0185185184,213,2.25,31.12000000000002,5732.942307692308,213,384,Nova Light Missile,The Nova light missile is a tiny nuclear projectile based on a classic Minmatar design that has been in use since the early days of the Minmatar Resistance.,700,0.015,0.0,100,,370.0,1,920.0,193.0,,20063,2.845040377875973
-48,215,328.0,2.732592592592593,2498401.277777778,215,3.0317460317460316,6.6426984126984205,5814.857142857143,215,85,Iron Charge S,"Consists of two components: a shell of titanium and a core of iron atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+5% increased tracking speed.",1,0.025,0.0,100,,3000.0,1,109.0,1304.0,,1304,1.9088579949107827
+29,196,54.08196721311475,14.765409836065572,162751.88524590165,196,1.5714285714285714,78.56000000000002,4826.857142857143,196,83,Proton L,"Large Projectile Ammo. Emits a focused, high intensity proton burst upon impact. Fairly effective vs. both shields and armor.
 
 60% increased optimal range.
-30% reduced capacitor need.",0.01,0.0025,0.0,100,,200.0,1,107.0,1311.0,,1311,2.4309143012043553
-49,216,284.0740740740741,5.095370370370368,706915.3148148148,216,1.5,16.92214285714286,4746.785714285715,216,85,Tungsten Charge S,"Consists of two components: a shell of titanium and a core of tungsten atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+5% increased tracking speed.",1,0.025,0.0,100,,4000.0,1,109.0,1306.0,,1306,5.320543139148876
+30,197,60.885245901639344,49.074754098360664,388307.18032786885,197,1.75,106.7075,10561.5,197,83,Depleted Uranium L,"Large Projectile Ammo. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead.
+
+20% tracking speed bonus.",1,0.025,0.0,100,,5000.0,1,109.0,1301.0,,1301,2.1743868504389416
+31,198,63.39344262295082,102.6455737704918,294964.5573770492,198,1.1428571428571428,181.31999999999996,1289.857142857143,198,83,Titanium Sabot L,"Large Projectile Ammo. This is among the most feared ammunition around. It has excellent penetration. Once the ship's outer layer is penetrated, the core explodes, spraying the interior with a cloud of fragmentation fletchets that cause considerable damage to the vulnerable interior structure.
+
+20% increased tracking speed.",1,0.025,0.0,100,,6000.0,1,109.0,1307.0,,1307,1.766466817219207
+32,199,80.72131147540983,222.0291803278689,1115991.4590163934,199,2.0,340.0366666666667,37940.666666666664,199,83,Fusion L,"Large Projectile Ammo. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.
+
+50% reduced optimal range.",1,0.025,0.0,100,,7000.0,1,109.0,1303.0,,1303,1.5314953924729038
+33,200,81.63934426229508,204.6301639344262,890648.9344262296,200,2.0,323.91826086956524,6038.782608695652,200,83,Phased Plasma L,"Large Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.
+
+50% reduced optimal range.",1,0.025,0.0,100,,8000.0,1,109.0,1305.0,,1305,1.5829448339462062
+34,201,90.24590163934427,221.1337704918032,1084456.6065573771,201,9.072463768115941,322.72434782608707,40218.739130434784,201,83,EMP L,"Large Projectile Ammo. A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.
+
+50% reduced optimal range.",1,0.025,0.0,100,,10000.0,1,109.0,1302.0,,1302,1.4594077924341706
+35,202,166.95081967213116,314.06999999999994,1236807.5901639345,202,1.8222222222222222,353.9811111111111,12025.511111111111,202,386,Mjolnir Cruise Missile,"The mother of all missiles, the Mjolnir cruise missile delivers a tremendous payload, guaranteed to get its victims acquainted with their personal god in a quick, but painful manner.",1250,0.05,0.0,100,,15000.0,1,921.0,182.0,,20041,1.1270771201041525
+36,203,217.7377049180328,261.13836065573764,2730602.295081967,203,1.380952380952381,353.8928571428571,4882.333333333333,203,386,Scourge Cruise Missile,"The first Minmatar-made large missile. Constructed of reactionary alloys, the Scourge cruise missile is built to get to the target. Guidance and propulsion systems are of Gallente origin and were initially used in drones, making this a nimble projectile despite its heavy payload.",1250,0.05,0.0,100,,10000.0,1,921.0,183.0,,20043,1.3551929186282938
+37,204,176.04918032786884,201.03885245901637,1374058.950819672,204,1.7959183673469388,306.9691836734694,11117.591836734693,204,386,Inferno Cruise Missile,"An Amarr creation with powerful capabilities, the Inferno cruise missile was for a long time confined solely to the Amarr armed forces, but exports began some years ago and the missile is now found throughout the universe.",1250,0.05,0.0,100,,12500.0,1,921.0,184.0,,20040,1.5269147227949278
+38,205,153.39344262295083,245.35311475409836,1046389.131147541,205,1.411764705882353,297.65,7532.35294117647,205,386,Nova Cruise Missile,A very basic missile for large launchers with reasonable payload. Utilizes the now substandard technology of bulls-eye guidance systems.,1250,0.05,0.0,100,,7500.0,1,921.0,185.0,,20042,1.2131494654075023
+39,206,247.37704918032787,22.292786885245892,1079826.9016393442,206,1.9333333333333333,183.94799999999998,9501.133333333333,206,385,Nova Heavy Missile,"The be-all and end-all of medium-sized missiles, the Nova heavy missile is a must for those who want a guaranteed kill no matter the cost.",1000,0.03,0.0,100,,2000.0,1,924.0,186.0,,20050,8.251458238348068
+40,207,268.55737704918033,55.41704918032789,1544573.6557377048,207,2.0327868852459017,194.68639344262286,12777.065573770491,207,385,Mjolnir Heavy Missile,"First introduced by the armaments lab of the Wiyrkomi Corporation, the Mjolnir heavy missile is a solid investment with a large payload and steady performance.",1000,0.03,0.0,100,,3500.0,1,924.0,187.0,,20049,3.5131136775094336
+41,208,290.11475409836066,61.87229508196721,1514076.1639344261,208,1.6521739130434783,139.704347826087,6278.565217391304,208,385,Inferno Heavy Missile,"Originally designed as a 'finisher' - the killing blow to a crippled ship - the Inferno heavy missile has since gone through various technological upgrades. The latest version has a lighter payload than the original, but much improved guidance systems.",1000,0.03,0.0,100,,3000.0,1,924.0,188.0,,20048,2.2579467537289415
+42,209,406.9016393442623,56.99934426229508,6248996.819672131,209,1.725,98.934,11372.65,209,385,Scourge Heavy Missile,The Scourge heavy missile is an old relic from the Caldari-Gallente War that is still in widespread use because of its low price and versatility.,1000,0.03,0.0,100,,2500.0,1,924.0,189.0,,20051,1.7357041783627076
+43,210,510.5409836065574,11.224754098360654,4007034.098360656,210,4.629213483146067,18.36247191011236,7332.921348314607,210,384,Scourge Light Missile,"From its humble beginnings in tiny Minmatar design labs, the Scourge light missile has quickly established itself throughout the star cluster as a premier missile for light launchers.",700,0.015,0.0,100,,500.0,1,920.0,190.0,,20064,1.635890795397839
+44,211,382.48333333333335,11.413499999999999,2851252.533333333,211,2.0869565217391304,32.90434782608696,7081.95652173913,211,384,Inferno Light Missile,The explosion the Inferno light missile creates upon impact is stunning enough for any display of fireworks - just ten times more deadly.,700,0.015,0.0,100,,624.0,1,920.0,191.0,,20061,2.8829323017555497
+45,212,337.1803278688525,19.612459016393444,2414383.0655737706,212,2.9027777777777777,26.736805555555563,7182.222222222223,212,384,Mjolnir Light Missile,"An advanced missile with a volatile payload of magnetized plasma, the Mjolnir light missile is specifically engineered to take down shield systems.",700,0.015,0.0,100,,750.0,1,920.0,192.0,,20062,1.3632561594243282
+46,213,313.8688524590164,11.201475409836068,1748526.950819672,213,2.1964285714285716,31.02285714285716,5639.160714285715,213,384,Nova Light Missile,The Nova light missile is a tiny nuclear projectile based on a classic Minmatar design that has been in use since the early days of the Minmatar Resistance.,700,0.015,0.0,100,,370.0,1,920.0,193.0,,20063,2.7695331202187745
+47,215,323.1311475409836,2.9255737704918037,2324684.5081967213,215,3.0317460317460316,6.6426984126984205,5814.857142857143,215,85,Iron Charge S,"Consists of two components: a shell of titanium and a core of iron atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+
+60% increased optimal range.
+30% reduced capacitor need.",0.01,0.0025,0.0,100,,200.0,1,107.0,1311.0,,1311,2.2705626088457
+48,216,281.21311475409834,4.920819672131144,668680.4426229508,216,1.5625,17.305625000000003,4328.4375,216,85,Tungsten Charge S,"Consists of two components: a shell of titanium and a core of tungsten atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 40% increased optimal range.
-27% reduced capacitor need.",0.01,0.0025,0.0,100,,300.0,1,107.0,1315.0,,1315,3.3210820072168445
-50,217,309.8703703703704,5.509444444444444,947784.925925926,217,1.1428571428571428,24.068571428571428,3287.1428571428573,217,85,Iridium Charge S,"Consists of two components: a shell of titanium and a core of iridium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+27% reduced capacitor need.",0.01,0.0025,0.0,100,,300.0,1,107.0,1315.0,,1315,3.516817553386417
+49,217,305.11475409836066,5.411475409836065,904477.1475409836,217,1.1428571428571428,24.068571428571428,3287.1428571428573,217,85,Iridium Charge S,"Consists of two components: a shell of titanium and a core of iridium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 20% increased optimal range.
-24% reduced capacitor need.",0.01,0.0025,0.0,100,,400.0,1,107.0,1310.0,,1310,4.368602255866549
-51,218,286.7037037037037,7.056111111111111,684731.0925925926,218,1.0,19.744999999999997,1329.5,218,85,Lead Charge S,"Consists of two components: a shell of titanium and a core of lead atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+24% reduced capacitor need.",0.01,0.0025,0.0,100,,400.0,1,107.0,1310.0,,1310,4.447691175834163
+50,218,282.9672131147541,7.016557377049181,665783.6721311476,218,1.0,19.744999999999997,1329.5,218,85,Lead Charge S,"Consists of two components: a shell of titanium and a core of lead atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
-50% reduced capacitor need.",0.01,0.0025,0.0,100,,500.0,1,107.0,1312.0,,1312,2.7982835997165574
-52,219,278.9074074074074,9.424074074074072,588552.2407407408,219,1.2,17.933999999999997,928.0,219,85,Thorium Charge S,"Consists of two components: a shell of titanium and a core of thorium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+50% reduced capacitor need.",0.01,0.0025,0.0,100,,500.0,1,107.0,1312.0,,1312,2.8140580827550754
+51,219,275.62295081967216,9.442295081967211,595917.7704918033,219,1.2,17.933999999999997,928.0,219,85,Thorium Charge S,"Consists of two components: a shell of titanium and a core of thorium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 12.5% reduced optimal range.
-40% reduced capacitor need.",0.01,0.0025,0.0,100,,600.0,1,107.0,1314.0,,1314,1.9029986244841817
-53,220,287.4259259259259,8.320185185185185,583479.425925926,220,1.6,22.874000000000002,3340.0,220,85,Uranium Charge S,"Consists of two components: a shell of titanium and a core of uranium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+40% reduced capacitor need.",0.01,0.0025,0.0,100,,600.0,1,107.0,1314.0,,1314,1.8993263654988022
+52,220,284.11475409836066,8.195081967213113,609934.5081967213,220,1.6,22.874000000000002,3340.0,220,85,Uranium Charge S,"Consists of two components: a shell of titanium and a core of uranium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 25% reduced optimal range.
-8% reduced capacitor need.",0.01,0.0025,0.0,100,,700.0,1,107.0,1316.0,,1316,2.749217654521579
-54,221,288.9074074074074,9.063888888888888,556734.4444444445,221,1.1,14.508000000000001,1009.4,221,85,Plutonium Charge S,"Consists of two components: a shell of titanium and a core of plutonium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+8% reduced capacitor need.",0.01,0.0025,0.0,100,,700.0,1,107.0,1316.0,,1316,2.7911862372474503
+53,221,284.3114754098361,8.891967213114752,540769.1147540984,221,1.1,14.508000000000001,1009.4,221,85,Plutonium Charge S,"Consists of two components: a shell of titanium and a core of plutonium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 37.5% reduced optimal range.
-5% reduced capacitor need.",0.01,0.0025,0.0,100,,800.0,1,107.0,1313.0,,1313,1.6006374501992033
-55,222,751.925925925926,21.232407407407408,11592202.0,222,13.552941176470588,20.150352941176475,46584.97647058823,222,85,Antimatter Charge S,"Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+5% reduced capacitor need.",0.01,0.0025,0.0,100,,800.0,1,107.0,1313.0,,1313,1.6315849634040676
+54,222,745.9016393442623,21.098524590163933,10980978.114754098,222,13.434782608695652,20.365652173913045,48649.05434782609,222,85,Antimatter Charge S,"Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
-50% reduced optimal range.",0.01,0.0025,0.0,100,,1000.0,1,107.0,1047.0,,1047,0.9490375987296932
-56,223,204.2962962962963,24.518703703703718,717824.1296296297,223,1.8125,48.270625,10366.375,223,85,Iron Charge M,"Consists of two components: a shell of titanium and a core of iron atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+50% reduced optimal range.",0.01,0.0025,0.0,100,,1000.0,1,107.0,1047.0,,1047,0.9652642812477726
+55,223,201.0655737704918,24.259016393442632,709670.3278688524,223,1.8125,48.270625,10366.375,223,85,Iron Charge M,"Consists of two components: a shell of titanium and a core of iron atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 60% increased optimal range.
-30% reduced capacitor need.",0.05,0.0125,0.0,100,,800.0,1,108.0,1319.0,,1319,1.9687266334846403
-57,224,183.53703703703704,24.464074074074077,418762.27777777775,224,1.3333333333333333,43.31999999999999,2366.6666666666665,224,85,Tungsten Charge M,"Consists of two components: a shell of titanium and a core of tungsten atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+30% reduced capacitor need.",0.05,0.0125,0.0,100,,800.0,1,108.0,1319.0,,1319,1.9898014089741851
+56,224,180.18032786885246,23.837868852459017,391375.91803278687,224,1.2,45.992,1812.0,224,85,Tungsten Charge M,"Consists of two components: a shell of titanium and a core of tungsten atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 40% increased optimal range.
-27% reduced capacitor need.",0.05,0.0125,0.0,100,,1100.0,1,108.0,1323.0,,1323,1.7707598443674015
-58,225,194.27777777777777,24.606666666666676,781622.3888888889,225,1.3076923076923077,44.45384615384616,3996.0384615384614,225,85,Iridium Charge M,"Consists of two components: a shell of titanium and a core of iridium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+27% reduced capacitor need.",0.05,0.0125,0.0,100,,1100.0,1,108.0,1323.0,,1323,1.9293671042768428
+57,225,191.60655737704917,24.416557377049187,748349.7540983607,225,1.2962962962962963,45.21111111111112,3852.185185185185,225,85,Iridium Charge M,"Consists of two components: a shell of titanium and a core of iridium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 20% increased optimal range.
-24% reduced capacitor need.",0.05,0.0125,0.0,100,,1500.0,1,108.0,1318.0,,1318,1.8065773294708538
-59,226,184.62962962962962,35.97222222222222,547518.6296296297,226,1.4,37.698,2865.0,226,85,Lead Charge M,"Consists of two components: a shell of titanium and a core of lead atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+24% reduced capacitor need.",0.05,0.0125,0.0,100,,1500.0,1,108.0,1318.0,,1318,1.851657889887793
+58,226,181.24590163934425,34.8872131147541,508913.262295082,226,1.4,37.698,2865.0,226,85,Lead Charge M,"Consists of two components: a shell of titanium and a core of lead atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
-50% reduced capacitor need.",0.05,0.0125,0.0,100,,1750.0,1,108.0,1320.0,,1320,1.0479752895752896
-60,227,186.85185185185185,51.86240740740741,602275.4444444445,227,1.4642857142857142,80.3157142857143,20992.5,227,85,Thorium Charge M,"Consists of two components: a shell of titanium and a core of thorium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+50% reduced capacitor need.",0.05,0.0125,0.0,100,,1750.0,1,108.0,1320.0,,1320,1.0805678251226436
+59,227,184.04918032786884,52.50459016393443,608375.4918032787,227,1.5172413793103448,79.27034482758621,20621.689655172413,227,85,Thorium Charge M,"Consists of two components: a shell of titanium and a core of thorium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 12.5% reduced optimal range.
-40% reduced capacitor need.",0.05,0.0125,0.0,100,,2250.0,1,108.0,1322.0,,1322,1.548630661411274
-61,228,185.74074074074073,34.77018518518518,467860.05555555556,228,1.25,64.8125,2950.0,228,85,Uranium Charge M,"Consists of two components: a shell of titanium and a core of uranium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+40% reduced capacitor need.",0.05,0.0125,0.0,100,,2250.0,1,108.0,1322.0,,1322,1.5097793274851095
+60,228,183.04918032786884,35.33426229508196,500703.91803278687,228,1.25,64.8125,2950.0,228,85,Uranium Charge M,"Consists of two components: a shell of titanium and a core of uranium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 25% reduced optimal range.
-8% reduced capacitor need.",0.05,0.0125,0.0,100,,2750.0,1,108.0,1324.0,,1324,1.8640251599124413
-62,229,181.35849056603774,28.377358490566024,353504.6603773585,229,1.0,53.99666666666667,911.0,229,85,Plutonium Charge M,"Consists of two components: a shell of titanium and a core of plutonium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+8% reduced capacitor need.",0.05,0.0125,0.0,100,,2750.0,1,108.0,1324.0,,1324,1.8342678123216682
+61,229,178.75,27.834166666666654,339450.06666666665,229,1.0,59.7475,1058.25,229,85,Plutonium Charge M,"Consists of two components: a shell of titanium and a core of plutonium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 37.5% reduced optimal range.
-5% reduced capacitor need.",0.05,0.0125,0.0,100,,3250.0,1,108.0,1321.0,,1321,1.9028080673758876
-63,230,371.037037037037,63.70962962962962,5035376.425925926,230,10.121951219512194,68.39475609756099,79609.5,230,85,Antimatter Charge M,"Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+5% reduced capacitor need.",0.05,0.0125,0.0,100,,3250.0,1,108.0,1321.0,,1321,2.146552498428192
+62,230,363.7704918032787,62.95049180327867,4865786.75409836,230,10.561797752808989,69.5385393258427,80429.55056179775,230,85,Antimatter Charge M,"Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
-50% reduced optimal range.",0.05,0.0125,0.0,100,,4000.0,1,108.0,1317.0,,1317,1.073538749089705
-64,231,94.07407407407408,11.105740740740739,384262.98148148146,231,1.0,24.0,3020.3333333333335,231,85,Iron Charge L,"Consists of two components: a shell of titanium and a core of iron atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+50% reduced optimal range.",0.05,0.0125,0.0,100,,4000.0,1,108.0,1317.0,,1317,1.104654424990861
+63,231,92.88524590163935,11.495409836065573,394868.4262295082,231,1.0,24.0,3020.3333333333335,231,85,Iron Charge L,"Consists of two components: a shell of titanium and a core of iron atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 60% increased optimal range.
-30% reduced capacitor need.",0.1,0.025,0.0,100,,2000.0,1,106.0,1327.0,,1327,2.1610445048440083
-65,233,93.57407407407408,23.52055555555555,337700.962962963,233,1.6,71.4,4739.6,233,85,Iridium Charge L,"Consists of two components: a shell of titanium and a core of iridium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+30% reduced capacitor need.",0.1,0.025,0.0,100,,2000.0,1,106.0,1327.0,,1327,2.087789851972277
+64,233,92.95081967213115,23.749180327868846,339830.1967213115,233,1.6,71.4,4739.6,233,85,Iridium Charge L,"Consists of two components: a shell of titanium and a core of iridium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 20% increased optimal range.
-24% reduced capacitor need.",0.1,0.025,0.0,100,,4000.0,1,106.0,1326.0,,1326,3.0356425821385558
-66,234,90.22222222222223,19.61666666666667,303840.98148148146,234,1.0,126.5,2500.25,234,85,Lead Charge L,"Consists of two components: a shell of titanium and a core of lead atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+24% reduced capacitor need.",0.1,0.025,0.0,100,,4000.0,1,106.0,1326.0,,1326,3.0064195485607796
+65,234,89.31147540983606,18.862459016393444,309590.4262295082,234,1.0,126.5,2500.25,234,85,Lead Charge L,"Consists of two components: a shell of titanium and a core of lead atoms suspended in a plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
-50% reduced capacitor need.",0.1,0.025,0.0,100,,5000.0,1,106.0,1328.0,,1328,6.44859813084112
-67,235,95.66666666666667,53.795555555555566,314844.1296296296,235,1.0,162.5,2900.0,235,85,Thorium Charge L,"Consists of two components: a shell of titanium and a core of thorium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+50% reduced capacitor need.",0.1,0.025,0.0,100,,5000.0,1,106.0,1328.0,,1328,6.706442669540504
+66,235,94.55737704918033,53.60344262295082,325109.0655737705,235,1.0,162.5,2900.0,235,85,Thorium Charge L,"Consists of two components: a shell of titanium and a core of thorium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 12.5% reduced optimal range.
-40% reduced capacitor need.",0.1,0.025,0.0,100,,6000.0,1,106.0,1330.0,,1330,3.0206956378056833
-68,237,95.18518518518519,57.63648148148151,350499.51851851854,237,1.5714285714285714,132.71428571428572,5242.857142857143,237,85,Plutonium Charge L,"Consists of two components: a shell of titanium and a core of plutonium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+40% reduced capacitor need.",0.1,0.025,0.0,100,,6000.0,1,106.0,1330.0,,1330,3.031521709212462
+67,237,94.04918032786885,56.673606557377084,354625.1967213115,237,1.5714285714285714,132.71428571428572,5242.857142857143,237,85,Plutonium Charge L,"Consists of two components: a shell of titanium and a core of plutonium atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
 37.5% reduced optimal range.
-5% reduced capacitor need.",0.1,0.025,0.0,100,,8000.0,1,106.0,1329.0,,1329,2.3026090820087024
-69,238,166.74074074074073,196.2879629629629,2324979.796296296,238,1.711111111111111,212.7448888888889,8452.68888888889,238,85,Antimatter Charge L,"Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
+5% reduced capacitor need.",0.1,0.025,0.0,100,,8000.0,1,106.0,1329.0,,1329,2.3417300181862273
+68,238,166.327868852459,196.817868852459,2419018.7213114756,238,1.7916666666666667,214.90583333333333,8860.0625,238,85,Antimatter Charge L,"Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.
 
-50% reduced optimal range.",0.1,0.025,0.0,100,,10000.0,1,106.0,1325.0,,1325,1.083840729087556
-70,239,130.90740740740742,966.4399999999999,993.074074074074,239,2.283333333333333,1230.352166666666,10.95,239,86,Radio S,"Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.
+50% reduced optimal range.",0.1,0.025,0.0,100,,10000.0,1,106.0,1325.0,,1325,1.0919020441910874
+69,239,128.68852459016392,908.8642622950819,1038.327868852459,239,2.212121212121212,1231.231969696969,10.454545454545455,239,86,Radio S,"Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.
 
 With longer range, EM damage increases although the overall damage output is decreased.
 
 60% increased optimal range.
-15% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1145.0,,1145,1.2730766179655915
-71,240,120.31481481481481,487.032962962963,918.8148148148148,240,1.0,5250.125,1.5,240,86,Microwave S,"Modulates the beam of a laser weapon into the microwave frequencies. Improved range. Increased EM damage.
+15% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1145.0,,1145,1.3546929071540759
+70,240,117.49180327868852,489.22114754098374,914.327868852459,240,1.0,5181.909090909091,1.3636363636363635,240,86,Microwave S,"Modulates the beam of a laser weapon into the microwave frequencies. Improved range. Increased EM damage.
 
 40% increased optimal range.
-25% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1143.0,,1143,10.77981450795406
-72,241,117.25925925925925,280.80296296296297,1655.4444444444443,241,1.3333333333333333,5894.444444444444,3.4444444444444446,241,86,Infrared S,"Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range. Slightly increased EM damage.
+25% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1143.0,,1143,10.592160860084212
+71,241,114.70491803278688,277.7762295081968,1896.049180327869,241,1.2727272727272727,4911.363636363636,3.3636363636363638,241,86,Infrared S,"Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range. Slightly increased EM damage.
 
 20% increased optimal range.
-35% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1144.0,,1144,20.991389771132518
-73,242,136.2037037037037,1277.552407407407,2221.1481481481483,242,1.4444444444444444,8798.51111111111,8.62962962962963,242,86,Standard S,"Modulates the beam of a laser weapon into the visible light spectrum. 
+35% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1144.0,,1144,17.681007640787737
+72,242,133.81967213114754,1288.3585245901636,2135.7377049180327,242,1.5483870967741935,8953.540645161287,12.290322580645162,242,86,Standard S,"Modulates the beam of a laser weapon into the visible light spectrum. 
 
-45% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1142.0,,1142,6.887006012509744
-74,243,113.87037037037037,343.0746296296297,1170.0,243,1.0769230769230769,3753.1153846153848,2.076923076923077,243,86,Ultraviolet S,"Modulates the beam of a laser weapon into the ultraviolet frequencies. Slightly reduced range. Slightly increased thermal damage.
+45% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1142.0,,1142,6.949572245823013
+73,243,111.68852459016394,354.50491803278703,1147.9016393442623,243,1.0714285714285714,3842.1785714285716,2.0714285714285716,243,86,Ultraviolet S,"Modulates the beam of a laser weapon into the ultraviolet frequencies. Slightly reduced range. Slightly increased thermal damage.
 
 12.5% reduced optimal range.
-35% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1141.0,,1141,10.939647121872884
-75,244,113.18518518518519,977.6303703703708,955.7592592592592,244,1.25,3085.0,3.25,244,86,Xray S,"Modulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased thermal damage.
+35% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1141.0,,1141,10.83815308613919
+74,244,111.57377049180327,983.3757377049185,978.8852459016393,244,1.2,3468.0,2.8,244,86,Xray S,"Modulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased thermal damage.
 
 25% reduced optimal range.
-25% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1140.0,,1140,3.155589365366444
-76,245,122.44444444444444,1095.4559259259258,1162.2407407407406,245,1.0,4367.55,3.9,245,86,Gamma S,"Modulates the beam of a laser weapon into the gamma frequencies. Greatly reduced range. Greatly increased thermal damage.
+25% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1140.0,,1140,3.5266275819392265
+75,245,119.63934426229508,1120.4085245901638,1166.655737704918,245,1.0,4367.55,3.9,245,86,Gamma S,"Modulates the beam of a laser weapon into the gamma frequencies. Greatly reduced range. Greatly increased thermal damage.
 
 37.5% reduced optimal range.
-15% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1139.0,,1139,3.9869700794291303
-77,246,202.25925925925927,4988.677037037037,4739.333333333333,246,3.013333333333333,5150.041999999998,17.6,246,86,Multifrequency S,"Randomly cycles the laser through the entire spectrum. The greatly increased damage comes at the cost of a significant reduction in range.
+15% reduced capacitor need.",1,1.0,0.0,1,,,1,102.0,1139.0,,1139,3.898176338490118
+76,246,204.0,5013.670819672131,4890.196721311476,246,3.049382716049383,5154.0137037037,18.11111111111111,246,86,Multifrequency S,"Randomly cycles the laser through the entire spectrum. The greatly increased damage comes at the cost of a significant reduction in range.
 
 With shorter range, Thermal damage increases and the overall damage output is increased.
 
-50% reduced optimal range.",1,1.0,0.0,1,,,1,102.0,1131.0,,1131,1.0323462436563746
-78,247,97.77777777777777,5529.050740740741,948.6666666666666,247,1.5,14570.803999999998,6.85,247,86,Radio M,"Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.
+50% reduced optimal range.",1,1.0,0.0,1,,,1,102.0,1131.0,,1131,1.0279920419746957
+77,247,95.08196721311475,5419.642131147541,942.4426229508197,247,1.4545454545454546,14778.215454545454,7.136363636363637,247,86,Radio M,"Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.
 
 With longer range, EM damage increases although the overall damage output is decreased.
 
 60% increased optimal range.
-15% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1145.0,,1145,2.6353174682654315
-79,248,84.37037037037037,1239.5881481481483,857.4629629629629,248,1.2142857142857142,7222.720714285712,8.857142857142858,248,86,Microwave M,"Modulates the beam of a laser weapon into the microwave frequencies. Improved range.
+15% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1145.0,,1145,2.726788060343083
+78,248,82.9672131147541,1326.1936065573773,840.5737704918033,248,1.2142857142857142,7222.720714285712,8.857142857142858,248,86,Microwave M,"Modulates the beam of a laser weapon into the microwave frequencies. Improved range.
 
 40% increased optimal range.
-25% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1143.0,,1143,5.826710044845068
-80,249,83.96296296296296,1166.714444444444,1290.7777777777778,249,1.4210526315789473,5555.696315789474,6.631578947368421,249,86,Infrared M,"Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range.
+25% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1143.0,,1143,5.446203841258847
+79,249,81.57377049180327,1212.4211475409832,1201.9016393442623,249,1.4285714285714286,5596.619047619049,6.619047619047619,249,86,Infrared M,"Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range.
 
 20% increased optimal range.
-35% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1144.0,,1144,4.76183040524105
-81,250,96.53703703703704,5366.322222222223,1823.351851851852,250,1.25,8187.5287499999995,4.625,250,86,Standard M,"Modulates the beam of a laser weapon into the visible light spectrum.
+35% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1144.0,,1144,4.616068483274181
+80,250,94.65573770491804,4896.358524590166,1702.049180327869,250,1.25,8187.5287499999995,4.625,250,86,Standard M,"Modulates the beam of a laser weapon into the visible light spectrum.
 
-45% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1142.0,,1142,1.5257243994956196
-82,251,86.20370370370371,2828.4524074074093,920.6481481481482,251,1.1875,7145.708125,2.5625,251,86,Ultraviolet M,"Modulates the beam of a laser weapon into the ultraviolet frequencies. Slightly reduced range. Slightly increased damage.
+45% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1142.0,,1142,1.6721669193301794
+81,251,84.59016393442623,2679.285573770494,888.7704918032787,251,1.2222222222222223,7240.629444444445,2.7777777777777777,251,86,Ultraviolet M,"Modulates the beam of a laser weapon into the ultraviolet frequencies. Slightly reduced range. Slightly increased damage.
 
 12.5% reduced optimal range.
-35% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1141.0,,1141,2.526366753170804
-83,252,84.57407407407408,2921.6911111111103,984.4629629629629,252,1.6153846153846154,18685.16923076923,3.1538461538461537,252,86,Xray M,"Modulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased damage.
+35% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1141.0,,1141,2.7024478149430267
+82,252,82.39344262295081,2900.924426229507,958.8032786885246,252,1.5625,16681.699999999997,3.0625,252,86,Xray M,"Modulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased damage.
 
 25% reduced optimal range.
-25% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1140.0,,1140,6.395326720100577
-84,253,85.57407407407408,4544.223333333333,917.3703703703703,253,1.25,9424.935,6.0,253,86,Gamma M,"Modulates the beam of a laser weapon into the gamma frequencies. Greatly reduced range. Greatly increased damage.
+25% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1140.0,,1140,5.75047727861085
+83,253,83.70491803278688,4448.7229508196715,923.2295081967213,253,1.2,9040.047,5.0,253,86,Gamma M,"Modulates the beam of a laser weapon into the gamma frequencies. Greatly reduced range. Greatly increased damage.
 
 37.5% reduced optimal range.
-15% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1139.0,,1139,2.074047490330214
-85,254,136.77777777777777,12946.389629629628,2206.6296296296296,254,1.5142857142857142,22523.465714285703,7.6571428571428575,254,86,Multifrequency M,"Randomly cycles the laser through the entire spectrum. The greatly increased damage comes at the cost of a significant reduction in range.
+15% reduced capacitor need.",1,1.0,0.0,1,,,1,103.0,1139.0,,1139,2.0320543895264107
+84,254,133.327868852459,12610.902622950818,2140.8688524590166,254,1.4871794871794872,21860.02820512819,7.435897435897436,254,86,Multifrequency M,"Randomly cycles the laser through the entire spectrum. The greatly increased damage comes at the cost of a significant reduction in range.
 
 With shorter range, Thermal damage increases and the overall damage output is increased.
 
-50% reduced optimal range.",1,1.0,0.0,1,,,1,103.0,1131.0,,1131,1.7397487916428527
-86,255,67.61111111111111,20528.22092592592,896.074074074074,255,2.0,193050.24190476196,6.619047619047619,255,86,Radio L,"Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.
+50% reduced optimal range.",1,1.0,0.0,1,,,1,103.0,1131.0,,1131,1.7334229641377703
+85,255,66.45901639344262,20109.359672131144,900.0983606557377,255,2.0,193050.24190476196,6.619047619047619,255,86,Radio L,"Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.
 
 With longer range, EM damage increases although the overall damage output is decreased.
 
 60% increased optimal range.
-15% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1145.0,,1145,9.404138946154413
-87,256,58.96296296296296,4530.472962962963,776.425925925926,256,1.1111111111111112,5718.764444444445,3.3333333333333335,256,86,Microwave L,"Modulates the beam of a laser weapon into the microwave frequencies. Improved range.
+15% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1145.0,,1145,9.600019346827017
+86,256,57.721311475409834,4845.243442622949,837.344262295082,256,1.1111111111111112,5718.764444444445,3.3333333333333335,256,86,Microwave L,"Modulates the beam of a laser weapon into the microwave frequencies. Improved range.
 
 40% increased optimal range.
-25% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1143.0,,1143,1.2622886156028026
-88,257,59.129629629629626,6453.461481481481,996.3888888888889,257,1.4,15055.0,4.6,257,86,Infrared L,"Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range.
+25% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1143.0,,1143,1.1802842338399862
+87,257,57.885245901639344,6665.004590163934,1023.5737704918033,257,1.4,15055.0,4.6,257,86,Infrared L,"Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range.
 
 20% increased optimal range.
-35% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1144.0,,1144,2.3328565674717434
-89,258,67.31481481481481,9746.944259259257,1391.6666666666667,258,2.75,225787.63800000004,14.05,258,86,Standard L,"Modulates the beam of a laser weapon into the visible light spectrum. 
+35% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1144.0,,1144,2.258813148038613
+88,258,65.8360655737705,9661.22475409836,1347.1639344262296,258,2.5217391304347827,209380.55478260873,12.608695652173912,258,86,Standard L,"Modulates the beam of a laser weapon into the visible light spectrum. 
 
-45% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1142.0,,1142,23.16496657765429
-90,259,61.24074074074074,5043.681666666667,948.1111111111111,259,1.8461538461538463,239591.4646153846,4.769230769230769,259,86,Ultraviolet L,"Modulates the beam of a laser weapon into the ultraviolet frequencies. Slightly reduced range. Slightly increased damage.
+45% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1142.0,,1142,21.67225792918108
+89,259,60.09836065573771,4912.649836065574,969.655737704918,259,1.7857142857142858,258192.0735714286,5.0,259,86,Ultraviolet L,"Modulates the beam of a laser weapon into the ultraviolet frequencies. Slightly reduced range. Slightly increased damage.
 
 12.5% reduced optimal range.
-35% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1141.0,,1141,47.503288361521214
-91,260,63.75925925925926,23958.135740740745,940.2222222222222,260,1.75,108238.02083333333,5.25,260,86,Xray L,"Modulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased damage.
+35% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1141.0,,1141,52.55657988809733
+90,260,62.36065573770492,23798.756065573776,925.9672131147541,260,1.75,108238.02083333333,5.25,260,86,Xray L,"Modulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased damage.
 
 25% reduced optimal range.
-25% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1140.0,,1140,4.517798129395972
-92,262,99.05555555555556,69551.18407407404,1779.1296296296296,262,1.4285714285714286,177437.26085714294,8.657142857142857,262,86,Multifrequency L,"Randomly cycles the laser through the entire spectrum. The greatly increased damage comes at the cost of a significant reduction in range.
+25% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1140.0,,1140,4.548053710668754
+91,261,63.31147540983606,22321.771475409838,914.3770491803278,261,1.1764705882352942,25276.587058823527,3.3529411764705883,261,86,Gamma L,"Modulates the beam of a laser weapon into the gamma frequencies. Greatly reduced range. Greatly increased damage.
+
+37.5% reduced optimal range.
+15% reduced capacitor need.",1,1.0,0.0,1,,,1,105.0,1139.0,,1139,1.1323737045990627
+92,262,97.93442622950819,69931.89934426227,1779.967213114754,262,1.4054054054054055,174677.13837837847,8.513513513513514,262,86,Multifrequency L,"Randomly cycles the laser through the entire spectrum. The greatly increased damage comes at the cost of a significant reduction in range.
 
 With shorter range, Thermal damage increases and the overall damage output is increased.
 
-50% reduced optimal range.",1,1.0,0.0,1,,,1,105.0,1131.0,,1131,2.5511752706922586
-93,263,56.22222222222222,110.12759259259258,12139.611111111111,263,1.263157894736842,184.21052631578945,324.0,263,87,Cap Booster 25,Provides a quick injection of power into your capacitor. Good for tight situations!,2.5,1.0,100.0,10,,1000.0,1,139.0,1033.0,,0,1.672700927888801
-94,264,46.68518518518518,722.3174074074074,27351.685185185186,264,1.4166666666666667,8060.416666666667,50.583333333333336,264,87,Cap Booster 50,Provides a quick injection of power into your capacitor. Good for tight situations!,5,2.0,100.0,10,,2500.0,1,139.0,1033.0,,0,11.159106210104618
-95,266,271.4259259259259,5.485000000000001,1566397.5,266,1.5777777777777777,79.82444444444442,2596.133333333333,266,387,Scourge Rocket,A small rocket with a piercing warhead.,100,0.005,0.0,100,,240.0,1,922.0,1350.0,,20060,14.553225969816665
-96,267,114.26415094339623,117.2979245283019,493555.358490566,267,3.2954545454545454,343.1013636363636,7027.113636363636,267,89,Scourge Torpedo,"An ultra-heavy piercing missile. While it is a slow projectile, its sheer damage potential is simply staggering.",1500,0.05,0.0,100,,30000.0,1,923.0,1346.0,,20014,2.9250420671644477
-97,269,142.9814814814815,16.812222222222225,211598.44444444444,269,1.25,29.275,6025.0,269,394,Mjolnir Auto-Targeting Light Missile I,An Amarr light missile with an EMP warhead and automatic guidance system.,700,0.015,0.0,100,4.0,750.0,1,914.0,1336.0,,20062,1.7412927103297862
-98,377,166.7962962962963,10744.405925925923,790.5,377,3.8076923076923075,52103.904743589774,7.628205128205129,377,38,Small Shield Extender I,Increases the maximum strength of the shield.,0,5.0,0.0,1,,,1,605.0,1044.0,,0,4.849398384871577
-99,380,259.6981132075472,314160.0252830188,814.433962264151,380,11.6,710657.1440000002,18.4,380,38,Small Shield Extender II,Increases the maximum strength of the shield.,0,5.0,0.0,1,,,1,605.0,1044.0,,0,2.262086474432217
-100,393,26.314814814814813,6511.57962962963,114.20370370370371,393,1.0,25035.998,2.6,393,39,Shield Recharger I,Improves the recharge rate of the shield.,0,5.0,1.0,1,,,1,126.0,83.0,,0,3.844842484314979
-101,394,95.22222222222223,245434.8244444445,365.037037037037,394,2.45,509308.95116666675,4.316666666666666,394,39,Shield Recharger II,Improves the recharge rate of the shield.,0,5.0,1.0,1,,,1,126.0,83.0,,0,2.075129119592202
-102,399,128.0,17357.876666666667,400.5740740740741,399,1.380952380952381,53036.06428571433,1.380952380952381,399,40,Small Shield Booster I,Expends energy to provide a quick boost in shield strength.,0,5.0,0.0,1,,,1,609.0,84.0,,0,3.055446544770222
-103,400,97.35849056603773,272638.2283018868,272.45283018867923,400,1.5454545454545454,574261.9793181815,2.022727272727273,400,40,Small Shield Booster II,Expends energy to provide a quick boost in shield strength.,0,5.0,0.0,1,,,1,609.0,84.0,,0,2.106314961386533
-104,421,5.02,2034649.6228000007,8.0,421,1.0,1000000.0,1.0,421,43,'Basic' Capacitor Recharger,Increases the capacitor recharge rate.,1,5.0,0.0,1,,,1,665.0,90.0,,0,0.4914851131094706
-105,434,303.4259259259259,56344.406666666655,859.2037037037037,434,5.927710843373494,569718.7353012047,7.855421686746988,434,46,5MN Microwarpdrive I,"Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.
+50% reduced optimal range.",1,1.0,0.0,1,,,1,105.0,1131.0,,1131,2.4978177343428647
+93,263,55.704918032786885,111.89131147540984,13076.672131147541,263,1.2608695652173914,187.13652173913042,335.04347826086956,263,87,Cap Booster 25,Provides a quick injection of power into your capacitor. Good for tight situations!,2.5,1.0,100.0,10,,1000.0,1,139.0,1033.0,,0,1.6724848361461657
+94,264,46.24590163934426,701.0262295081966,25833.016393442624,264,1.625,11103.708750000002,47.25,264,87,Cap Booster 50,Provides a quick injection of power into your capacitor. Good for tight situations!,5,2.0,100.0,10,,2500.0,1,139.0,1033.0,,0,15.839220107056171
+95,266,266.88524590163934,5.441311475409837,1454090.3278688525,266,1.64,78.49579999999997,2608.94,266,387,Scourge Rocket,A small rocket with a piercing warhead.,100,0.005,0.0,100,,240.0,1,922.0,1350.0,,20060,14.42589720414557
+96,267,113.63333333333334,119.02133333333335,488994.38333333336,267,3.42,360.1676,7448.9,267,89,Scourge Torpedo,"An ultra-heavy piercing missile. While it is a slow projectile, its sheer damage potential is simply staggering.",1500,0.05,0.0,100,,30000.0,1,923.0,1346.0,,20014,3.0260759975802656
+97,269,141.29508196721312,16.41688524590164,202857.37704918033,269,1.25,29.275,6025.0,269,394,Mjolnir Auto-Targeting Light Missile I,An Amarr light missile with an EMP warhead and automatic guidance system.,700,0.015,0.0,100,4.0,750.0,1,914.0,1336.0,,20062,1.7832249882667783
+98,377,166.21311475409837,10658.194098360651,774.8196721311475,377,3.7721518987341773,52324.924303797496,7.569620253164557,377,38,Small Shield Extender I,Increases the maximum strength of the shield.,0,5.0,0.0,1,,,1,605.0,1044.0,,0,4.909361175158712
+99,380,259.21666666666664,311866.2178333333,851.4666666666667,380,11.728260869565217,701063.8803260871,18.630434782608695,380,38,Small Shield Extender II,Increases the maximum strength of the shield.,0,5.0,0.0,1,,,1,605.0,1044.0,,0,2.2479635184492723
+100,393,25.918032786885245,6358.179836065574,115.22950819672131,393,1.0,27371.872499999998,2.25,393,39,Shield Recharger I,Improves the recharge rate of the shield.,0,5.0,1.0,1,,,1,126.0,83.0,,0,4.304985578535892
+101,394,95.14754098360656,237037.4526229509,382.0163934426229,394,2.4153846153846152,523669.8010769232,4.369230769230769,394,39,Shield Recharger II,Improves the recharge rate of the shield.,0,5.0,1.0,1,,,1,126.0,83.0,,0,2.209228099957312
+102,400,96.58333333333333,271478.1048333334,272.01666666666665,400,1.5416666666666667,568406.7935416665,2.0416666666666665,400,40,Small Shield Booster II,Expends energy to provide a quick boost in shield strength.,0,5.0,0.0,1,,,1,609.0,84.0,,0,2.093748200764199
+103,421,4.754385964912281,1926917.7682456144,7.456140350877193,421,1.0,1000000.0,1.0,421,43,'Basic' Capacitor Recharger,Increases the capacitor recharge rate.,1,5.0,0.0,1,,,1,665.0,90.0,,0,0.5189635055939424
+104,434,302.4918032786885,55259.47098360655,853.9344262295082,434,5.944444444444445,535393.4572222222,7.7444444444444445,434,46,5MN Microwarpdrive I,"Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.
 
 Penalty: Max capacitor reduced.
 
-Note: Usually fit on Frigates and Destroyers.",0,10.0,0.0,1,4.0,31636.0,1,131.0,10149.0,,0,10.111362759956975
-106,438,367.0,2878645.5771698114,889.0188679245283,438,11.211764705882352,3550578.9607058805,13.223529411764705,438,46,1MN Afterburner II,"Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.
+Note: Usually fit on Frigates and Destroyers.",0,10.0,0.0,1,4.0,31636.0,1,131.0,10149.0,,0,9.688718471102515
+105,438,367.3666666666667,2847045.884833334,890.6,438,11.08695652173913,3525915.3504347815,13.065217391304348,438,46,1MN Afterburner II,"Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.
 
-Note: Usually fit on Frigates and Destroyers.",0,5.0,0.0,1,4.0,40566.0,1,542.0,96.0,,0,1.2334199766949747
-107,439,319.537037037037,8814.88648148148,1560.2037037037037,439,5.27710843373494,62196.949638554244,8.710843373493976,439,46,1MN Afterburner I,"Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.
+Note: Usually fit on Frigates and Destroyers.",0,5.0,0.0,1,4.0,40566.0,1,542.0,96.0,,0,1.2384469703203216
+106,439,316.0655737704918,8648.111967213114,1456.27868852459,439,5.211111111111111,61002.4517777778,8.38888888888889,439,46,1MN Afterburner I,"Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.
 
-Note: Usually fit on Frigates and Destroyers.",0,5.0,0.0,1,4.0,6450.0,1,542.0,96.0,,0,7.055899105362168
-108,440,302.20754716981133,4231370.601886792,622.2075471698113,440,9.552941176470588,5903336.914823528,10.6,440,46,5MN Microwarpdrive II,"Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.
+Note: Usually fit on Frigates and Destroyers.",0,5.0,0.0,1,4.0,6450.0,1,542.0,96.0,,0,7.053846204703577
+107,440,305.81666666666666,4202456.758166666,615.8,440,9.619565217391305,5875613.334999999,10.641304347826088,440,46,5MN Microwarpdrive II,"Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.
 
 Penalty: Max capacitor reduced.
 
-Note: Usually fit on Frigates and Destroyers.",0,10.0,0.0,1,4.0,134084.0,1,131.0,10149.0,,0,1.3951358720957217
-109,442,82.0925925925926,22439.049444444438,249.64814814814815,442,5.094117647058823,7390.66458823529,7.905882352941177,442,47,Cargo Scanner I,Scans the cargo hold of another ship.,0,5.0,0.0,1,,,1,711.0,106.0,,0,0.32936620628843544
-110,443,14.74074074074074,9949.548518518523,67.5925925925926,443,1.619047619047619,8779.818095238095,2.761904761904762,443,48,Ship Scanner I,"Scans the target ship and provides a tactical analysis of its capabilities. The further it goes beyond scan range, the more inaccurate its results will be.",0,5.0,0.0,1,,,1,713.0,107.0,,0,0.8824338188709493
-111,444,71.98148148148148,5756.609814814814,302.5925925925926,444,1.2222222222222223,180600.15962962966,1.3703703703703705,444,49,Survey Scanner I,"Scans the composition of asteroids, ice and gas clouds.",0,5.0,0.0,1,,,1,714.0,2732.0,,0,31.372659506094983
-112,447,88.66666666666667,64090.00907407408,1474.4074074074074,447,5.963414634146342,87650.20682926828,16.573170731707318,447,52,Warp Scrambler I,"Disrupts the target ship's navigation computer, disabling warping, jumping, microwarpdrives and micro jump drives.",0,5.0,0.0,1,,,1,1936.0,3433.0,,0,1.3676110847162426
-113,448,1101.037037037037,1781970.3061111113,2714.4444444444443,448,46.56470588235294,2515549.345647059,54.28235294117647,448,52,Warp Scrambler II,"Disrupts the target ship's navigation computer, disabling warping, jumping, microwarpdrives and micro jump drives.",0,5.0,0.0,1,,,1,1936.0,3433.0,,0,1.4116673757246136
-114,450,15.407407407407407,6604.022777777776,96.94444444444444,450,1.3636363636363635,45363.62545454545,3.909090909090909,450,53,Gatling Pulse Laser I,"Rapid fire multi-barreled energy weapon that delivers a steady stream of damage. 
+Note: Usually fit on Frigates and Destroyers.",0,10.0,0.0,1,4.0,134084.0,1,131.0,10149.0,,0,1.3981377258866197
+108,442,80.81967213114754,20756.461311475403,241.81967213114754,442,5.032967032967033,7375.063736263731,8.263736263736265,442,47,Cargo Scanner I,Scans the cargo hold of another ship.,0,5.0,0.0,1,,,1,711.0,106.0,,0,0.35531411764231496
+109,443,15.049180327868852,9503.102459016398,72.27868852459017,443,1.608695652173913,8810.806086956522,2.652173913043478,443,48,Ship Scanner I,"Scans the target ship and provides a tactical analysis of its capabilities. The further it goes beyond scan range, the more inaccurate its results will be.",0,5.0,0.0,1,,,1,713.0,107.0,,0,0.9271504884804187
+110,444,70.11475409836065,6138.961147540982,301.5409836065574,444,1.4,163231.81033333336,1.7666666666666666,444,49,Survey Scanner I,"Scans the composition of asteroids, ice and gas clouds.",0,5.0,0.0,1,,,1,714.0,2732.0,,0,26.589484183120685
+111,447,88.77049180327869,63540.07344262296,1549.7868852459017,447,5.840909090909091,87268.58897727271,15.772727272727273,447,52,Warp Scrambler I,"Disrupts the target ship's navigation computer, disabling warping, jumping, microwarpdrives and micro jump drives.",0,5.0,0.0,1,,,1,1936.0,3433.0,,0,1.373441739189627
+112,448,1101.032786885246,1757613.892622951,2699.377049180328,448,46.03260869565217,2481377.965326087,53.59782608695652,448,52,Warp Scrambler II,"Disrupts the target ship's navigation computer, disabling warping, jumping, microwarpdrives and micro jump drives.",0,5.0,0.0,1,,,1,1936.0,3433.0,,0,1.4117878652080047
+113,450,15.60655737704918,6382.899016393441,119.22950819672131,450,1.3333333333333333,44833.32333333333,3.8333333333333335,450,53,Gatling Pulse Laser I,"Rapid fire multi-barreled energy weapon that delivers a steady stream of damage. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,570.0,350.0,,11118,6.869089792844431
-115,451,13.018518518518519,10445.692777777778,200.37037037037038,451,1.2666666666666666,18687.145999999993,5.2,451,53,Dual Light Pulse Laser I,"This light pulse laser uses two separate laser focusing systems to reduce the cool down period between shots. Good skirmish weapon. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,570.0,350.0,,11118,7.023975033630675
+114,451,12.98360655737705,10608.335409836065,185.8360655737705,451,1.2105263157894737,17496.841578947362,4.684210526315789,451,53,Dual Light Pulse Laser I,"This light pulse laser uses two separate laser focusing systems to reduce the cool down period between shots. Good skirmish weapon. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,570.0,350.0,,11117,1.7889810084932927
-116,452,31.77777777777778,23010.29166666666,141.4814814814815,452,2.036363636363636,46631.12236363637,7.618181818181818,452,53,Dual Light Beam Laser I,"This light beam laser uses two separate laser focusing systems to reduce the cool down period between shots. Good short to medium range weapon. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,570.0,350.0,,11117,1.6493484512871137
+115,452,31.459016393442624,24718.305573770485,143.2295081967213,452,2.05,46446.821833333335,7.416666666666667,452,53,Dual Light Beam Laser I,"This light beam laser uses two separate laser focusing systems to reduce the cool down period between shots. Good short to medium range weapon. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,567.0,352.0,,11110,2.0265333025390326
-117,453,10.407407407407407,35152.294629629636,172.11111111111111,453,1.4814814814814814,31617.318148148148,10.666666666666666,453,53,Small Focused Pulse Laser I,"A high-powered pulse laser. Good for short to medium range encounters. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,567.0,352.0,,11110,1.879045539538106
+116,453,10.59016393442623,33797.73540983607,165.13114754098362,453,1.6129032258064515,31738.808709677418,11.548387096774194,453,53,Small Focused Pulse Laser I,"A high-powered pulse laser. Good for short to medium range encounters. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,570.0,350.0,,11119,0.8994382438265671
-118,454,21.814814814814813,52433.63500000001,526.0555555555555,454,1.4375,52995.00249999999,8.25,454,53,Small Focused Beam Laser I,"A high-powered beam laser. Good for medium range encounters. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,570.0,350.0,,11119,0.9390809273109036
+117,454,28.78688524590164,57989.17721311476,601.2131147540983,454,1.4375,52995.00249999999,8.25,454,53,Small Focused Beam Laser I,"A high-powered beam laser. Good for medium range encounters. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,567.0,352.0,,11111,1.0107062480028322
-119,455,4.886792452830188,31923.819811320758,78.35849056603773,455,1.0,43000.0,20.0,455,53,Quad Light Beam Laser I,"Uses four light laser focusing systems. Low powered, but makes up for it with a fast firing rate. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",500,5.0,1.0,1,,,1,567.0,352.0,,11111,0.9138774689842418
+118,455,4.816666666666666,32970.991,74.43333333333334,455,1.0,43000.0,20.0,455,53,Quad Light Beam Laser I,"Uses four light laser focusing systems. Low powered, but makes up for it with a fast firing rate. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,10.0,1.0,1,,,1,568.0,355.0,,11109,1.3469566065133418
-120,456,10.444444444444445,144677.12018518517,79.53703703703704,456,1.0,284999.994,2.0,456,53,Focused Medium Pulse Laser I,"A high-energy, concentrated laser designed for short to medium range engagements. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,10.0,1.0,1,,,1,568.0,355.0,,11109,1.3041767534375899
+119,456,10.295081967213115,148193.73295081966,76.45901639344262,456,1.0,284999.994,2.0,456,53,Focused Medium Pulse Laser I,"A high-energy, concentrated laser designed for short to medium range engagements. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,10.0,1.0,1,,,1,572.0,356.0,,11115,1.9699036975245503
-121,457,8.481481481481481,159146.42499999996,61.074074074074076,457,1.0,220000.0,12.0,457,53,Focused Medium Beam Laser I,"A high-energy, concentrated laser designed for medium range engagements. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,10.0,1.0,1,,,1,572.0,356.0,,11115,1.9231582086847194
+120,457,8.557377049180328,158748.18901639341,58.950819672131146,457,1.0,220000.0,12.0,457,53,Focused Medium Beam Laser I,"A high-energy, concentrated laser designed for medium range engagements. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,10.0,1.0,1,,,1,568.0,355.0,,11107,1.3823747533128694
-122,458,7.814814814814815,210754.59370370372,61.166666666666664,458,1.0,252267.948,4.0,458,53,Heavy Pulse Laser I,"A heavy laser designed for short to medium range engagements. Delivers powerful damage. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,10.0,1.0,1,,,1,568.0,355.0,,11107,1.3858425810280035
+121,458,7.754098360655738,206037.21967213115,58.278688524590166,458,1.0,252267.948,4.0,458,53,Heavy Pulse Laser I,"A heavy laser designed for short to medium range engagements. Delivers powerful damage. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,25.0,1.0,1,,,1,572.0,356.0,,11116,1.1969748491207703
-123,459,7.7407407407407405,155028.43851851855,24.666666666666668,459,1.0,330000.0,5.5,459,53,Heavy Beam Laser I,"A high-energy heavy laser designed for medium range engagements. Delivers powerful damage. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,25.0,1.0,1,,,1,572.0,356.0,,11116,1.2243804706811527
+122,459,7.721311475409836,154133.53934426233,27.852459016393443,459,1.0,330000.0,5.5,459,53,Heavy Beam Laser I,"A high-energy heavy laser designed for medium range engagements. Delivers powerful damage. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,25.0,1.0,1,,,1,568.0,355.0,,11108,2.1286417069896544
-124,460,2.789473684210526,264094.2939473684,12.605263157894736,460,1.0,375000.0,8.0,460,53,Dual Heavy Pulse Laser I,"This heavy pulse laser uses two separate laser focusing systems to reduce the cool down period between shots. A great weapon for medium to long range encounters. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",1000,25.0,1.0,1,,,1,568.0,355.0,,11108,2.14100059859739
+123,460,2.7142857142857144,272438.4607142857,14.285714285714286,460,1.0,375000.0,8.0,460,53,Dual Heavy Pulse Laser I,"This heavy pulse laser uses two separate laser focusing systems to reduce the cool down period between shots. A great weapon for medium to long range encounters. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,20.0,1.0,1,,,1,573.0,360.0,,11113,1.419947377108928
-125,461,2.8857142857142857,598351.3494285713,9.0,461,1.0,845000.0,8.0,461,53,Dual Heavy Beam Laser I,"This heavy beam laser uses two separate laser focusing systems to reduce the cool down period between shots. A great weapon for medium to long range encounters. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,20.0,1.0,1,,,1,573.0,360.0,,11113,1.3764576375039557
+124,461,3.2195121951219514,602492.0529268292,11.658536585365853,461,1.0,845000.0,8.0,461,53,Dual Heavy Beam Laser I,"This heavy beam laser uses two separate laser focusing systems to reduce the cool down period between shots. A great weapon for medium to long range encounters. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,50.0,1.0,1,,,1,569.0,361.0,,11043,1.4122137449961123
-126,462,6.115384615384615,1250147.042307692,42.86538461538461,462,1.1428571428571428,1798094.4757142856,6.0,462,53,Mega Pulse Laser I,"A super-heavy pulse laser designed for medium range engagements. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,50.0,1.0,1,,,1,569.0,361.0,,11043,1.4025081258667202
+125,462,6.016949152542373,1243653.942542373,42.47457627118644,462,1.125,1823332.54125,6.25,462,53,Mega Pulse Laser I,"A super-heavy pulse laser designed for medium range engagements. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,50.0,1.0,1,,,1,573.0,360.0,,11114,1.4383063870591712
-127,464,3.595744680851064,1513608.295106383,30.76595744680851,464,1.0,1850000.0,4.0,464,53,Tachyon Beam Laser I,"An ultra-heavy beam laser designed for medium to long range engagements. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,50.0,1.0,1,,,1,573.0,360.0,,11114,1.4661092438002516
+126,464,3.769230769230769,1533089.4359615385,31.596153846153847,464,1.0,1850000.0,4.0,464,53,Tachyon Beam Laser I,"An ultra-heavy beam laser designed for medium to long range engagements. 
 
-Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,50.0,1.0,1,,,1,569.0,361.0,,11106,1.2222448872546472
-128,482,167.2037037037037,859979.6240740741,605.925925925926,482,2.5,1534865.7629629625,5.314814814814815,482,54,Miner II,"Has an improved technology beam, making the extraction process more efficient. Useful for extracting all but the rarest ore.",0,5.0,0.0,1,,,1,1039.0,1061.0,,11273,1.7847699177937235
-129,483,181.67924528301887,11075.065849056602,1543.7735849056603,483,2.111111111111111,36659.093174603186,5.365079365079365,483,54,Miner I,"Basic mining laser. Extracts common ore quickly, but has difficulty with the more rare types.",0,5.0,0.0,1,,,1,1039.0,1061.0,,11146,3.310056452416117
-130,484,44.592592592592595,2964.1299999999983,935.425925925926,484,3.5384615384615383,11048.780769230767,18.974358974358974,484,55,125mm Gatling AutoCannon I,"This multi-barrel autocannon is designed for skirmish warfare. 
+Requires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",2000,50.0,1.0,1,,,1,569.0,361.0,,11106,1.206713683236424
+127,482,165.68852459016392,852125.0232786885,609.1967213114754,482,2.3833333333333333,1502587.5194999992,5.066666666666666,482,54,Miner II,"Has an improved technology beam, making the extraction process more efficient. Useful for extracting all but the rarest ore.",0,5.0,0.0,1,,,1,1039.0,1061.0,,11273,1.7633416205975871
+128,483,179.11666666666667,11026.758166666663,1473.75,483,2.246376811594203,36439.028840579726,5.681159420289855,483,54,Miner I,"Basic mining laser. Extracts common ore quickly, but has difficulty with the more rare types.",0,5.0,0.0,1,,,1,1039.0,1061.0,,11146,3.3046003448894963
+129,484,44.377049180327866,2992.3995081967196,953.5737704918033,484,3.511904761904762,11921.438452380951,18.30952380952381,484,55,125mm Gatling AutoCannon I,"This multi-barrel autocannon is designed for skirmish warfare. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.5,1,,2000.0,1,574.0,387.0,,11161,3.727495342387403
-131,485,16.444444444444443,15842.722222222217,281.3888888888889,485,1.6551724137931034,9213.050000000001,9.068965517241379,485,55,150mm Light AutoCannon I,"A simple but effective close combat autocannon. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.5,1,,2000.0,1,574.0,387.0,,11161,3.983906032508691
+130,485,15.918032786885245,16155.083278688518,270.0655737704918,485,1.65625,10315.1703125,8.5625,485,55,150mm Light AutoCannon I,"A simple but effective close combat autocannon. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.4,1,,6000.0,1,574.0,387.0,,11162,0.5815320038293085
-132,486,40.74074074074074,30155.005555555555,1007.925925925926,486,1.7045454545454546,79424.89340909092,8.681818181818182,486,55,200mm AutoCannon I,"A powerful autocannon that can smash apart most lightly armored frigates with ease. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.4,1,,6000.0,1,574.0,387.0,,11162,0.638509262660848
+131,486,40.459016393442624,29334.07213114754,1007.4098360655738,486,1.673913043478261,79188.8545652174,8.521739130434783,486,55,200mm AutoCannon I,"A powerful autocannon that can smash apart most lightly armored frigates with ease. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.3,1,,9000.0,1,574.0,387.0,,11163,2.6338875402547623
-133,487,16.425925925925927,24660.992037037035,204.05555555555554,487,1.2307692307692308,65961.40076923076,4.769230769230769,487,55,250mm Light Artillery Cannon I,"This artillery is one of the most powerful weapons that can be mounted on a frigate. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.3,1,,9000.0,1,574.0,387.0,,11163,2.699552050297613
+132,487,16.491803278688526,24101.38360655737,203.0983606557377,487,1.2142857142857142,71892.72928571429,4.5,487,55,250mm Light Artillery Cannon I,"This artillery is one of the most powerful weapons that can be mounted on a frigate. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.1,1,,12000.0,1,577.0,389.0,,11152,2.6747261695785327
-134,488,42.98148148148148,54754.311296296306,1408.0555555555557,488,2.6363636363636362,49853.321363636336,15.712121212121213,488,55,280mm Howitzer Artillery I,"Rocket-assisted artillery projectiles designed for long-range combat. It is the most powerful projectile weapon able to be fitted onto frigates. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.1,1,,12000.0,1,577.0,389.0,,11152,2.9829295470884962
+133,488,43.950819672131146,70011.67901639346,1340.3934426229507,488,2.5652173913043477,50342.14159420286,15.130434782608695,488,55,280mm Howitzer Artillery I,"Rocket-assisted artillery projectiles designed for long-range combat. It is the most powerful projectile weapon able to be fitted onto frigates. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.05,1,,15000.0,1,577.0,389.0,,11153,0.9104912505220117
-135,489,3.8095238095238093,49849.80904761905,130.04761904761904,489,1.75,149937.5,7.25,489,55,Dual 180mm AutoCannon I,"This dual 180mm autocannon is a simple but effective close combat weapon. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",500,5.0,0.05,1,,15000.0,1,577.0,389.0,,11153,0.7190534822399429
+134,489,3.7872340425531914,49142.36085106383,122.12765957446808,489,1.75,149937.5,7.25,489,55,Dual 180mm AutoCannon I,"This dual 180mm autocannon is a simple but effective close combat weapon. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",1000,10.0,2.5,1,,20000.0,1,575.0,386.0,,11158,3.00778484139773
-136,490,10.907407407407407,136952.98962962965,193.24074074074073,490,1.0,143250.0,5.0,490,55,220mm Vulcan AutoCannon I,"The 220mm multi-barrel autocannon is designed for skirmish warfare. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",1000,10.0,2.5,1,,20000.0,1,575.0,386.0,,11158,3.051084591853795
+135,490,10.704918032786885,126209.0536065574,182.2295081967213,490,1.0,143250.0,5.0,490,55,220mm Vulcan AutoCannon I,"The 220mm multi-barrel autocannon is designed for skirmish warfare. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",1000,10.0,2.0,1,,60000.0,1,575.0,386.0,,11159,1.045979356766141
-137,491,8.666666666666666,143602.91574074075,101.77777777777777,491,1.8,270112.314,7.266666666666667,491,55,425mm AutoCannon I,"The 425mm is a behemoth that will inflict severe damage on most cruisers and frigates in short-range battles. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",1000,10.0,2.0,1,,60000.0,1,575.0,386.0,,11159,1.1350215844781297
+136,492,6.101694915254237,178570.0566101695,39.05084745762712,492,1.0833333333333333,251499.99916666668,3.6666666666666665,492,55,650mm Artillery Cannon I,"A powerful long-range cannon. One of the most damaging weapons mountable on a cruiser. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",1000,10.0,1.5,1,,90000.0,1,575.0,386.0,,11160,1.880966779864401
-138,492,6.339622641509434,169998.77264150945,40.0188679245283,492,1.0909090909090908,251181.8172727273,3.6363636363636362,492,55,650mm Artillery Cannon I,"A powerful long-range cannon. One of the most damaging weapons mountable on a cruiser. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",125,25.0,0.5,1,,120000.0,1,578.0,384.0,,11150,1.4084108161297624
+137,493,9.229508196721312,202859.81934426224,81.8360655737705,493,1.56,446761.0188,8.12,493,55,720mm Howitzer Artillery I,"This 720mm rocket-assisted howitzer is designed for long-range bombardment. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",125,25.0,0.5,1,,120000.0,1,578.0,384.0,,11150,1.4775507691600531
-139,493,9.425925925925926,208932.0594444444,83.55555555555556,493,1.5217391304347827,459522.84652173915,8.217391304347826,493,55,720mm Howitzer Artillery I,"This 720mm rocket-assisted howitzer is designed for long-range bombardment. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",50,25.0,0.25,1,,150000.0,1,578.0,384.0,,11151,2.2023139932005287
+138,494,2.25,193414.64277777777,16.61111111111111,494,1.0,300000.0,8.0,494,55,Dual 425mm AutoCannon I,"Combines the damage output of two 425mm intermediate-range autocannons. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",50,25.0,0.25,1,,150000.0,1,578.0,384.0,,11151,2.199388871883147
-140,494,2.064516129032258,182168.39387096773,13.870967741935484,494,1.0,300000.0,8.0,494,55,Dual 425mm AutoCannon I,"Combines the damage output of two 425mm intermediate-range autocannons. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",200,20.0,5.0,1,,200000.0,1,576.0,381.0,,11155,1.5510718097216798
+139,496,5.947368421052632,1251486.8640350883,111.73684210526316,496,1.5,1115500.0,12.5,496,55,800mm Repeating Cannon I,"A two-barreled, intermediate-range, powerful cannon capable of causing tremendous damage. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",200,20.0,5.0,1,,200000.0,1,576.0,381.0,,11155,1.6468279355445925
-141,496,5.666666666666667,1238450.7664705885,79.7843137254902,496,1.5,1115500.0,12.5,496,55,800mm Repeating Cannon I,"A two-barreled, intermediate-range, powerful cannon capable of causing tremendous damage. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",75,25.0,3.0,1,,900000.0,1,576.0,381.0,,11157,0.8913397591752305
+140,498,4.448275862068965,1224211.5656896548,32.63793103448276,498,1.1111111111111112,2033111.111111111,7.777777777777778,498,55,1400mm Howitzer Artillery I,"The ultimate artillery cannon. It hurls death and destruction over incredible distances. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",75,25.0,3.0,1,,900000.0,1,576.0,381.0,,11157,0.9007221200880023
-142,498,4.392156862745098,1211337.0554901958,30.254901960784313,498,1.1111111111111112,2033111.111111111,7.777777777777778,498,55,1400mm Howitzer Artillery I,"The ultimate artillery cannon. It hurls death and destruction over incredible distances. 
+Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",2000,50.0,0.5,1,,1500000.0,1,579.0,379.0,,11149,1.6607514322622543
+141,499,203.98360655737704,11030.878688524586,2020.344262295082,499,5.934782608695652,16895.035652173905,28.065217391304348,499,509,Light Missile Launcher I,"Favored by many for its average capacity and firing rate. Useful in both fast attack raids and longer battles.
+",0,5.0,0.6,1,,6000.0,1,640.0,168.0,,20097,1.5316128596128789
+142,501,43.34426229508197,34020.125245901625,262.57377049180326,501,1.5217391304347827,92684.7995652174,6.217391304347826,501,510,Heavy Missile Launcher I,"Designed for long engagements between medium sized ships. Slow firing rate, but makes up for it with a large missile capacity.",0,10.0,0.9,1,,30000.0,1,642.0,169.0,,20081,2.724410886064655
+143,503,8.836065573770492,48447.67885245901,87.85245901639344,503,1.411764705882353,89667.5,5.176470588235294,503,508,Torpedo Launcher I,"A massive launcher designed for extended bombardments of hard targets like battleships and stations. Contains a huge missile capacity, but has a slow firing rate and trouble targeting small, fast ships.",0,20.0,1.5,1,,99996.0,1,644.0,170.0,,170,1.8508110630660037
+144,519,629.3934426229508,994085.1396721313,3292.6393442622953,519,30.097826086956523,1295334.8181521744,63.03260869565217,519,59,Gyrostabilizer II,"Gives a bonus to the speed and damage of projectile turrets. 
 
-Must be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",2000,50.0,0.5,1,,1500000.0,1,579.0,379.0,,11149,1.6784024742711807
-143,499,206.12962962962962,11424.089074074069,2017.3333333333333,499,6.0588235294117645,17062.864941176464,29.094117647058823,499,509,Light Missile Launcher I,"Favored by many for its average capacity and firing rate. Useful in both fast attack raids and longer battles.
-",0,5.0,0.6,1,,6000.0,1,640.0,168.0,,20097,1.4935864759579898
-144,501,43.72222222222222,36420.22648148146,272.962962962963,501,1.3157894736842106,91407.9152631579,5.315789473684211,501,510,Heavy Missile Launcher I,"Designed for long engagements between medium sized ships. Slow firing rate, but makes up for it with a large missile capacity.",0,10.0,0.9,1,,30000.0,1,642.0,169.0,,20081,2.509811829688537
-145,503,9.12962962962963,48403.330555555556,94.35185185185185,503,1.3571428571428572,88923.64142857143,5.071428571428571,503,508,Torpedo Launcher I,"A massive launcher designed for extended bombardments of hard targets like battleships and stations. Contains a huge missile capacity, but has a slow firing rate and trouble targeting small, fast ships.",0,20.0,1.5,1,,99996.0,1,644.0,170.0,,170,1.8371388994918056
-146,519,632.5555555555555,995564.9920370372,3351.1296296296296,519,30.788235294117648,1298914.3540000005,64.92941176470588,519,59,Gyrostabilizer II,"Gives a bonus to the speed and damage of projectile turrets. 
+Penalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",0,5.0,0.0,1,,,1,646.0,1046.0,,0,1.30304213035455
+145,520,51.4,55326.15466666666,449.3666666666667,520,2.3220338983050848,83863.49694915253,6.677966101694915,520,59,Gyrostabilizer I,"Gives a bonus to the speed and damage of projectile turrets. 
 
-Penalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",0,5.0,0.0,1,,,1,646.0,1046.0,,0,1.3047007120472132
-147,523,86.22222222222223,8864.298518518519,458.0,523,1.7647058823529411,20570.215294117632,2.176470588235294,523,62,Small Armor Repairer I,This module uses nano-assemblers to repair damage done to the armor of the ship.,500,5.0,0.0,1,,,1,1049.0,80.0,,0,2.3205688810168263
-148,524,17.09259259259259,23808.522037037023,58.351851851851855,524,1.0,44522.24,1.0,524,63,Small Hull Repairer I,Makes use of nano-assembler technology in order to repair damage done to the structure.,1000,12.5,0.0,1,,,1,1053.0,21378.0,,0,1.8700127597479714
-149,526,144.94444444444446,49564.78407407407,614.6851851851852,526,9.764705882352942,77314.87129411765,12.211764705882352,526,65,Stasis Webifier I,"Reduces the maximum speed of a ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.",0,5.0,0.0,1,,,1,683.0,1284.0,,0,1.559875075387625
-150,527,636.074074074074,989050.9505555555,1847.148148148148,527,21.341176470588234,1327940.8770588234,27.2,527,65,Stasis Webifier II,"Reduces the maximum speed of a ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.",0,5.0,0.0,1,,,1,683.0,1284.0,,0,1.3426415255077724
-151,530,24.64814814814815,27043.575740740747,144.46296296296296,530,1.2142857142857142,115213.02642857142,1.7857142857142858,530,68,Small Energy Nosferatu I,"Drains energy from the target ship and adds it to your own.
+Penalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",0,5.0,0.0,1,,,1,646.0,1046.0,,0,1.5158020190345756
+146,523,85.14754098360656,9146.868032786886,555.5737704918033,523,1.7017543859649122,20457.71368421051,2.1052631578947367,523,62,Small Armor Repairer I,This module uses nano-assemblers to repair damage done to the armor of the ship.,500,5.0,0.0,1,,,1,1049.0,80.0,,0,2.2365812659458926
+147,524,16.81967213114754,23333.670491803266,58.01639344262295,524,1.0,44522.24,1.0,524,63,Small Hull Repairer I,Makes use of nano-assembler technology in order to repair damage done to the structure.,1000,12.5,0.0,1,,,1,1053.0,21378.0,,0,1.9080684290814824
+148,526,143.1639344262295,48826.727540983615,619.2459016393443,526,9.521739130434783,76915.40369565219,11.880434782608695,526,65,Stasis Webifier I,"Reduces the maximum speed of a ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.",0,5.0,0.0,1,,,1,683.0,1284.0,,0,1.5752725519254147
+149,527,634.7049180327868,980737.9590163934,1838.344262295082,527,20.83695652173913,1319659.5935869562,26.717391304347824,527,65,Stasis Webifier II,"Reduces the maximum speed of a ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.",0,5.0,0.0,1,,,1,683.0,1284.0,,0,1.3455781755510674
+150,530,24.327868852459016,26407.469508196726,136.55737704918033,530,1.3333333333333333,115865.492,1.8666666666666667,530,68,Small Energy Nosferatu I,"Drains energy from the target ship and adds it to your own.
 
-Note: A Nosferatu module will not drain your target's capacitor below your own capacitor level.",1000,5.0,0.0,1,,,1,692.0,1029.0,,0,4.260273402196763
-152,533,25.037037037037038,37246.82833333333,209.7962962962963,533,1.5454545454545454,68398.30333333333,2.242424242424242,533,71,Small Energy Neutralizer I,Neutralizes a portion of the energy in the target ship's capacitor.,2000,5.0,0.0,1,,,1,689.0,1283.0,,0,1.8363524196266017
-153,561,109.4074074074074,9048.09611111111,592.0925925925926,561,1.7894736842105263,21243.21,7.315789473684211,561,74,75mm Gatling Rail I,"A small multi-barreled railgun for frigates. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
+Note: A Nosferatu module will not drain your target's capacitor below your own capacitor level.",1000,5.0,0.0,1,,,1,692.0,1029.0,,0,4.387602983467842
+151,533,24.24590163934426,36131.11950819672,202.45901639344262,533,1.5142857142857142,68880.73828571427,2.1714285714285713,533,71,Small Energy Neutralizer I,Neutralizes a portion of the energy in the target ship's capacitor.,2000,5.0,0.0,1,,,1,689.0,1283.0,,0,1.9064102973639647
+152,561,107.24590163934427,8972.063442622948,575.7868852459017,561,1.744186046511628,23307.953023255814,7.0,561,74,75mm Gatling Rail I,"A small multi-barreled railgun for frigates. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.5,1,,2000.0,1,564.0,349.0,,11140,2.3478099413547593
-154,562,85.24074074074075,8569.502592592591,586.3518518518518,562,1.8157894736842106,18368.769736842103,11.421052631578947,562,74,Light Electron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.5,1,,2000.0,1,564.0,349.0,,11140,2.5978364032211774
+153,562,85.72131147540983,8718.913278688524,595.3934426229508,562,1.7804878048780488,18044.712682926827,10.878048780487806,562,74,Light Electron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.5,1,,6000.0,1,561.0,376.0,,11127,2.143504776195519
-155,563,34.851851851851855,20799.62648148148,519.2037037037037,563,7.180722891566265,33371.8914457831,34.674698795180724,563,74,Light Ion Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.5,1,,6000.0,1,561.0,376.0,,11127,2.0696057072884506
+154,563,34.50819672131148,20237.277377049177,499.39344262295083,563,7.011111111111111,33310.61277777775,33.577777777777776,563,74,Light Ion Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.3,1,,9000.0,1,561.0,376.0,,11128,1.604446670015689
-156,564,75.42592592592592,40080.26796296296,2079.0925925925926,564,2.746031746031746,24271.80095238095,13.619047619047619,564,74,Light Neutron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.3,1,,9000.0,1,561.0,376.0,,11128,1.6460026789747353
+155,564,76.22950819672131,38972.80475409836,2316.032786885246,564,2.7313432835820897,23718.215373134324,13.432835820895523,564,74,Light Neutron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.2,1,,12000.0,1,561.0,376.0,,11129,0.6055798073707949
-157,565,106.01851851851852,41252.1822222222,1519.9259259259259,565,2.466666666666667,56884.114666666705,11.816666666666666,565,74,150mm Railgun I,"This is a standard long-range railgun designed for frigates. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.2,1,,12000.0,1,561.0,376.0,,11129,0.6085837425041914
+156,565,104.44262295081967,40061.29836065572,1472.360655737705,565,2.3968253968253967,56318.20174603179,11.492063492063492,565,74,150mm Railgun I,"This is a standard long-range railgun designed for frigates. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.1,1,,15000.0,1,564.0,349.0,,11139,1.3789358914453673
-158,566,13.296296296296296,121243.8977777778,122.35185185185185,566,1.2,455999.998,6.1,566,74,Heavy Electron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",500,5.0,0.1,1,,15000.0,1,564.0,349.0,,11139,1.405800711674937
+157,566,12.80327868852459,120451.45393442627,116.45901639344262,566,1.1818181818181819,459999.9981818182,5.636363636363637,566,74,Heavy Electron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,10.0,2.5,1,,60000.0,1,562.0,371.0,,11124,3.761014008604217
-159,567,13.333333333333334,45355.68111111113,89.87037037037037,567,1.3,123700.0,6.0,567,74,Dual 150mm Railgun I,"This cruiser-sized weapon is a double-barreled version of the frigate class 150mm railgun. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,10.0,2.5,1,,60000.0,1,562.0,371.0,,11124,3.818965924913136
+158,567,12.78688524590164,44937.87901639346,85.1639344262295,567,1.2727272727272727,126090.90818181819,5.7272727272727275,567,74,Dual 150mm Railgun I,"This cruiser-sized weapon is a double-barreled version of the frigate class 150mm railgun. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,10.0,2.0,1,,20000.0,1,565.0,370.0,,11135,2.7273319895023307
-160,568,14.462962962962964,216299.8516666667,88.18518518518519,568,1.1875,446874.98750000016,5.9375,568,74,Heavy Neutron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,10.0,2.0,1,,20000.0,1,565.0,370.0,,11135,2.805893623413332
+159,568,14.131147540983607,217916.23754098368,87.50819672131148,568,1.1764705882352942,449411.75176470604,5.882352941176471,568,74,Heavy Neutron Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,25.0,1.0,1,,120000.0,1,562.0,371.0,,11126,2.0659976604545527
-161,569,14.092592592592593,179374.71981481483,119.66666666666667,569,1.0,253743.7475,7.5,569,74,Heavy Ion Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,25.0,1.0,1,,120000.0,1,562.0,371.0,,11126,2.062314203090005
+160,569,13.327868852459016,181720.1326229508,112.37704918032787,569,1.0,220994.998,7.0,569,74,Heavy Ion Blaster I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,10.0,1.5,1,,90000.0,1,562.0,371.0,,11125,1.4146014988174656
-162,570,27.462962962962962,351828.32629629626,294.9074074074074,570,1.553191489361702,334437.0510638299,8.23404255319149,570,74,250mm Railgun I,"Cruiser-sized large barrel turret. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,10.0,1.5,1,,90000.0,1,562.0,371.0,,11125,1.2161283112121661
+161,570,26.83606557377049,346167.5622950819,296.0163934426229,570,1.5686274509803921,345780.21215686284,8.254901960784315,570,74,250mm Railgun I,"Cruiser-sized large barrel turret. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,25.0,0.5,1,,150000.0,1,565.0,370.0,,11137,0.9505688600586978
-163,572,2.466666666666667,128157.57999999999,9.866666666666667,572,1.2,425000.0,8.8,572,74,Dual 250mm Railgun I,"This battleship-sized weapon is a double-barreled version of the cruiser class 250mm railgun. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",1000,25.0,0.5,1,,150000.0,1,565.0,370.0,,11137,0.9988810328280011
+162,572,2.576923076923077,132429.6001923077,13.788461538461538,572,1.2,425000.0,8.8,572,74,Dual 250mm Railgun I,"This battleship-sized weapon is a double-barreled version of the cruiser class 250mm railgun. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,20.0,4.0,1,,200000.0,1,566.0,366.0,,11132,3.316229910084133
-164,573,7.185185185185185,1618915.6870370368,67.07407407407408,573,1.0,1894999.992,6.6,573,74,Neutron Blaster Cannon I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,20.0,4.0,1,,200000.0,1,566.0,366.0,,11132,3.209252307511584
+163,573,7.032786885245901,1608174.1463934423,71.52459016393442,573,1.0,1904545.4463636363,6.7272727272727275,573,74,Neutron Blaster Cannon I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,50.0,2.0,1,,1200000.0,1,563.0,365.0,,11123,1.1705365555313487
-165,574,10.830188679245284,1459376.3715094333,83.11320754716981,574,1.0,2750000.0,10.0,574,74,425mm Railgun I,"This large battleship-sized weapon packs quite a punch. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,50.0,2.0,1,,1200000.0,1,563.0,365.0,,11123,1.1842905512657622
+164,574,10.716666666666667,1475925.068666666,77.95,574,1.0,2724999.995,9.0,574,74,425mm Railgun I,"This large battleship-sized weapon packs quite a punch. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,50.0,1.0,1,,1500000.0,1,566.0,366.0,,11134,1.8843665374379568
-166,575,2.642857142857143,997876.9083333331,18.80952380952381,575,1.0,1750000.0,6.0,575,74,Ion Blaster Cannon I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,50.0,1.0,1,,1500000.0,1,566.0,366.0,,11134,1.8462996888193886
+165,575,2.739130434782609,999676.4656521736,20.23913043478261,575,1.0,1750000.0,6.0,575,74,Ion Blaster Cannon I,"Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. 
 
-Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,50.0,3.0,1,,900000.0,1,563.0,365.0,,11122,1.7537233153564729
-167,577,21.14814814814815,45682.55333333333,73.70370370370371,577,1.1111111111111112,119566.66666666667,2.0,577,76,Medium Capacitor Booster I,Provides a quick injection of power into the capacitor.,0,10.0,32.0,1,,28124.0,1,700.0,1031.0,,0,2.617337647355672
-168,578,416.3888888888889,81619.04333333333,1488.648148148148,578,7.273809523809524,111479.47000000003,13.30952380952381,578,77,Adaptive Invulnerability Field I,"Boosts shield resistance against all damage types.<br><br>Penalty: Using more than one type of this module, or similar modules that affect the same resistance type, will result in a penalty to the boost you get on that type of resistance.",10000,20.0,0.0,1,,75000.0,1,1696.0,81.0,,0,1.365851221077369
-169,580,16.814814814814813,110881.96740740743,59.851851851851855,580,1.3448275862068966,93634.8227586207,2.5517241379310347,580,80,Burst Jammer I,"Emits random electronic bursts which have a chance of momentarily disrupting target locks on ships within range.
+Requires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",2000,50.0,3.0,1,,900000.0,1,563.0,365.0,,11122,1.7505663683483104
+166,577,20.78688524590164,45941.24114754098,74.75409836065573,577,1.0909090909090908,126368.18090909091,1.8181818181818181,577,76,Medium Capacitor Booster I,Provides a quick injection of power into the capacitor.,0,10.0,32.0,1,,28124.0,1,700.0,1031.0,,0,2.750647952745935
+167,578,411.60655737704917,80848.33196721313,1470.639344262295,578,7.142857142857143,111640.92285714288,12.923076923076923,578,77,Adaptive Invulnerability Field I,"Boosts shield resistance against all damage types.<br><br>Penalty: Using more than one type of this module, or similar modules that affect the same resistance type, will result in a penalty to the boost you get on that type of resistance.",10000,20.0,0.0,1,,75000.0,1,1696.0,81.0,,0,1.380868598531102
+168,580,16.983606557377048,107042.73196721314,68.88524590163935,580,1.3125,97325.30937500001,2.53125,580,80,Burst Jammer I,"Emits random electronic bursts which have a chance of momentarily disrupting target locks on ships within range.
 
 Given the unstable nature of the bursts and the amount of internal shielding needed to ensure they do not affect their own point of origin, this module requires large amounts of capacitor energy to operate.
 
-Note: Only one module of this type can be activated at the same time.",5000,5.0,0.0,1,,,1,678.0,109.0,,0,0.844454918576467
-170,581,11.703703703703704,53006.26388888889,65.27777777777777,581,1.0,78677.89,1.0,581,82,Passive Targeter I,Uses advanced gravitational and visual targeting to identify threats. Allows target lock without alerting the ship to a possible threat.,2000,25.0,0.0,1,,,1,672.0,104.0,,0,1.4843130646771043
-171,582,54.43396226415094,209940.76773584902,193.41509433962264,582,2.65625,590827.1728124998,2.921875,582,25,Bantam,"In YC114 each major empire faction, having been embroiled in a harrowing, extensive, long-term war, recognized the growing need for support and logistics functionality in their vessels during the kind of protracted interstellar warfare that might otherwise prove exhausting for its participants. In the Caldari State, this led to the redesign and redeployment of the Bantam.
+Note: Only one module of this type can be activated at the same time.",5000,5.0,0.0,1,,,1,678.0,109.0,,0,0.9092192210192324
+169,581,11.737704918032787,52370.64360655737,64.8360655737705,581,1.0,83923.014,1.0,581,82,Passive Targeter I,Uses advanced gravitational and visual targeting to identify threats. Allows target lock without alerting the ship to a possible threat.,2000,25.0,0.0,1,,,1,672.0,104.0,,0,1.6024820055771078
+170,582,54.416666666666664,207662.36399999994,182.38333333333333,582,2.5942028985507246,593004.8534782607,2.9855072463768115,582,25,Bantam,"In YC114 each major empire faction, having been embroiled in a harrowing, extensive, long-term war, recognized the growing need for support and logistics functionality in their vessels during the kind of protracted interstellar warfare that might otherwise prove exhausting for its participants. In the Caldari State, this led to the redesign and redeployment of the Bantam.
 
-The Bantam, a strong and sturdy craft, was originally an extremely effective mining frigate. After its redesign, the Bantam's large structure had to give way for logistics systems that ate up some of its interior room but allowed it to focus extensively on shield support for fellow vessels.",1480000,20000.0,270.0,1,1.0,,1,61.0,,20070.0,38,2.8142565123696626
-172,583,125.51851851851852,327008.82037037046,333.0925925925926,583,5.8352941176470585,586236.4645882351,8.588235294117647,583,25,Condor,The Condor is fast and agile. It has limited cargo space so it's not very suitable for trading or mining. It is best used as an assault vessel in a hit-and-run type of operations.,1100000,18000.0,130.0,1,1.0,,1,61.0,,20070.0,39,1.7927237067314064
-173,584,41.56603773584906,393019.8898113207,156.54716981132074,584,7.666666666666667,462787.87035714294,11.535714285714286,584,25,Griffin,"The Griffin is much used by the Caldari Navy as a support vessel in combat squadrons, using its impressive array of electronic gadgetry to disrupt the operation of target ships, making them easy prey for traditional combat vessels.",1056000,19400.0,260.0,1,1.0,,1,61.0,,20070.0,40,1.1775176838488153
-174,585,55.425925925925924,377069.63333333336,181.5,585,4.445783132530121,705967.8400000001,6.325301204819277,585,25,Slasher,"The Slasher is cheap, but versatile. It's been manufactured en masse, making it one of the most common vessels in Minmatar space. The Slasher is extremely fast, with decent armaments, and is popular amongst budding pirates and smugglers.",1075000,17400.0,120.0,1,2.0,,1,64.0,,20078.0,44,1.8722479287424278
-175,586,48.44444444444444,376659.8705555557,93.53703703703704,586,2.9027777777777777,657090.0806944444,3.75,586,25,Probe,"The Probe is large compared to most Minmatar frigates and is considered a good scout and cargo-runner. Uncharacteristically for a Minmatar ship, its hard outer coating makes it difficult to destroy, while the limited weapon hardpoints force it to rely on drone assistance if engaged in combat.",1123000,19500.0,400.0,1,2.0,,1,64.0,,20078.0,45,1.7445184158462839
-176,587,61.27777777777778,383918.17833333317,186.53703703703704,587,2.8194444444444446,1469037.5415277777,3.7916666666666665,587,25,Rifter,"The Rifter is a very powerful combat frigate and can easily tackle the best frigates out there. It has gone through many radical design phases since its inauguration during the Minmatar Rebellion. The Rifter has a wide variety of offensive capabilities, making it an unpredictable and deadly adversary.",1067000,27289.0,140.0,1,2.0,,1,64.0,,20078.0,46,3.826433923772946
-177,588,35.886792452830186,102260.8941509434,81.05660377358491,588,1.0,10000.0,1.0,588,237,Reaper,"The Reaper-class corvette is one of the smallest of the Minmatar vessels, just barely reaching rookie ship status instead of a manned fighter. The Reaper is very cheap and is used en masse in daring hit-and-run operations by Minmatars either side of the law.",1157000,15800.0,120.0,1,2.0,,1,1819.0,,20078.0,53,0.09778909213564456
+The Bantam, a strong and sturdy craft, was originally an extremely effective mining frigate. After its redesign, the Bantam's large structure had to give way for logistics systems that ate up some of its interior room but allowed it to focus extensively on shield support for fellow vessels.",1480000,20000.0,270.0,1,1.0,,1,61.0,,20070.0,38,2.8556202580755596
+171,583,125.88524590163935,328581.4055737705,327.9344262295082,583,5.793478260869565,605417.1060869563,8.554347826086957,583,25,Condor,The Condor is fast and agile. It has limited cargo space so it's not very suitable for trading or mining. It is best used as an assault vessel in a hit-and-run type of operations.,1100000,18000.0,130.0,1,1.0,,1,61.0,,20070.0,39,1.8425178534670088
+172,584,42.2,390244.4665,164.21666666666667,584,7.758241758241758,470388.4615384617,11.516483516483516,584,25,Griffin,"The Griffin is much used by the Caldari Navy as a support vessel in combat squadrons, using its impressive array of electronic gadgetry to disrupt the operation of target ships, making them easy prey for traditional combat vessels.",1056000,19400.0,260.0,1,1.0,,1,61.0,,20070.0,40,1.2053686904448695
+173,585,55.295081967213115,371454.36557377054,181.60655737704917,585,4.322222222222222,702198.061888889,6.1,585,25,Slasher,"The Slasher is cheap, but versatile. It's been manufactured en masse, making it one of the most common vessels in Minmatar space. The Slasher is extremely fast, with decent armaments, and is popular amongst budding pirates and smugglers.",1075000,17400.0,120.0,1,2.0,,1,64.0,,20078.0,44,1.8904019631166051
+174,586,47.950819672131146,377191.65032786893,90.68852459016394,586,2.8947368421052633,656172.1711842105,3.710526315789474,586,25,Probe,"The Probe is large compared to most Minmatar frigates and is considered a good scout and cargo-runner. Uncharacteristically for a Minmatar ship, its hard outer coating makes it difficult to destroy, while the limited weapon hardpoints force it to rely on drone assistance if engaged in combat.",1123000,19500.0,400.0,1,2.0,,1,64.0,,20078.0,45,1.7396253883505675
+175,587,61.885245901639344,386894.5963934425,206.54098360655738,587,2.8461538461538463,1401228.064358974,3.9871794871794872,587,25,Rifter,"The Rifter is a very powerful combat frigate and can easily tackle the best frigates out there. It has gone through many radical design phases since its inauguration during the Minmatar Rebellion. The Rifter has a wide variety of offensive capabilities, making it an unpredictable and deadly adversary.",1067000,27289.0,140.0,1,2.0,,1,64.0,,20078.0,46,3.621730769622927
+176,588,36.65,99534.962,86.25,588,1.0,10000.0,1.0,588,237,Reaper,"The Reaper-class corvette is one of the smallest of the Minmatar vessels, just barely reaching rookie ship status instead of a manned fighter. The Reaper is very cheap and is used en masse in daring hit-and-run operations by Minmatars either side of the law.",1157000,15800.0,120.0,1,2.0,,1,1819.0,,20078.0,53,0.10046721070732915
