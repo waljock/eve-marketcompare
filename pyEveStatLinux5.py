@@ -39,7 +39,7 @@ Collect Inventory Types and Filter for what we want
 
 types = pd.read_excel(xlTypes, sheet_name='Sheet1')
 
-p2xl =types[(types['MARKETGROUPID'] >= 1)]
+p2xl =types[(types['BASEPRICE'] >= 1)]
 
 #make a lsit of Type Codes that we will analyze
 
