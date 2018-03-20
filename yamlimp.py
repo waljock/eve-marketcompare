@@ -13,4 +13,5 @@ path = os.getcwd()
 file1 = "typeIDs.yaml"
 
 with open(file1, 'r', encoding="utf8") as fp:
-    read_data = yaml.load(fp)
+    j = yaml.load(fp)
+    
